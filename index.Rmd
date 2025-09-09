@@ -1,0 +1,171 @@
+---
+title: "A cover analysis of the plural classifier in Hmong"
+subtitle: "Goethe University Frankfurt (Sinn und Bedeutung 30)"
+author: "Quartz Colvin"
+institute: "Rutgers University"
+date: "`r Sys.Date()`"
+output:
+  xaringan::moon_reader:
+    css: ["rutgers", "rutgers-fonts"]
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+      bibliography:  bibliography.bib
+
+---
+
+# Introduction
+
+***???***
+
+--
+
+## Research questions for broader project
+
+1. What are the individual meanings of *ib*, *tus*, and *cov*?
+
+2. How does the indefinite article *ib* combine with with *tus* and *cov* classifier phrases?
+
+---
+
+# Introduction
+
+## Outline 
+
+1. Introduction + background
+
+2. Hmong data
+
+***???***
+
+
+---
+
+# Language background
+
+.pull-left[
+
+- SVO word order
+
+- diaspora communities in the US speak White and Green Hmong, mainly from Laos
+
+- monosyllabic words (no consonant codas)
+
+- in RPA orthography the final letter of the word corresponds to a tone
+
+- 7 tones: high rising, high falling, mid, low, mid-rising, low-falling creaky, mid/high-falling breathy
+
+]
+
+
+.pull-right[
+```{r, out.width="auto", out.height="auto", echo=FALSE}
+knitr::include_graphics("./images/Hmong_Mien_map.png")
+```
+]
+
+---
+
+# Speaker information
+
+- All data and discussion are based on elicitation on Zoom with **Ying** and in person with **Keng**, two (siblings!) White Hmong speakers who were raised in Wisconsin (WI). 
+
+--
+
+- Keng was born in WI and Ying immigrated to the US at age 4.
+
+- neither speaker can read/write Hmong
+
+- **Keng:** White Hmong, English, high school German 
+
+- **Ying:** White Hmong, English, high school Japanese 
+
+---
+
+class: center, middle
+
+# Hmong data
+
+---
+
+# Data
+
+## Definites (Bare classifier phrases)
+
+***???***
+
+---
+
+# Data
+
+## Indefinites
+
+***???***
+
+---
+
+class: center, middle
+
+# Proposal
+
+---
+
+# Proposal 
+
+***???***
+
+---
+
+# Conclusion 
+
+***???***
+
+---
+
+# References
+
+Chierchia, Gennaro. 1998. Reference to kinds across language. Natural Language Semantics
+6:339–405.
+
+
+Chierchia, Gennaro. 1997. Partitives, Reference to Kinds and Semantic Variation. SALT VII, 73-98.
+Cornell University. Ithaca, NY.
+
+
+Elbourne, Paul D. 2005. On the acquisition of Principle B. Linguistic Inquiry 36:333–366
+
+
+Jenks, Peter. 2018. Articulated definiteness without articles. Linguistic Inquiry 49:501–536.
+
+
+Percus, O. 2006. "Antipresuppositions." In A. Ueyama(ed.), Theoretical and Empirical Studies of Reference and Anaphora: Toward the establishment of generative grammar as an empirical science, Report of the Grant-in-Aid for Scientific Research (B), Project No. 15320052, Japan Society for the Promotion of Science, 52-73. 
+
+
+Winter, Y. 1997. Choice Functions and the Scopal Semantics of Indefinites. Linguistics and Philosophy 20, 399–467. https://doi.org/10.1023/A:1005354323136
+ 
+
+---
+
+class: center, middle
+
+# Thank you! Questions? Comments?
+
+### contact: quartz.colvin@rutgers.edu
+
+--
+
+## *(Cov aub!)* 
+
+
+.pull-center[
+```{r, out.width="30%", out.height="25%", dpi=900, echo=FALSE}
+knitr::include_graphics("./images/apollo.jpeg")
+
+knitr::include_graphics("./images/copper.jpeg")
+
+knitr::include_graphics("./images/mars.jpeg")
+
+```
+]
