@@ -1,0 +1,1162 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.5.8)  9 SEP 2025 15:46
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./SuB30_typeset.tex
+(SuB30_typeset.tex
+LaTeX2e <2024-11-01> patch level 2
+L3 programming layer <2025-04-14>
+(C:\Users\court\OneDrive\Desktop\MiKTeX_updated\tex/latex/base\article.cls
+Document Class: article 2024/06/29 v1.4n Standard LaTeX document class
+(C:\Users\court\OneDrive\Desktop\MiKTeX_updated\tex/latex/base\size11.clo
+File: size11.clo 2024/06/29 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count272
+\c@section=\count273
+\c@subsection=\count274
+\c@subsubsection=\count275
+\c@paragraph=\count276
+\c@subparagraph=\count277
+\c@figure=\count278
+\c@table=\count279
+\abovecaptionskip=\skip49
+\belowcaptionskip=\skip50
+\bibindent=\dimen146
+)
+(C:\Users\court\OneDrive\Desktop\MiKTeX_updated\tex/latex/geometry\geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+(C:\Users\court\OneDrive\Desktop\MiKTeX_updated\tex/latex/graphics\keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+)
+(C:\Users\court\OneDrive\Desktop\MiKTeX_updated\tex/generic/iftex\ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(C:\Users\court\OneDrive\Desktop\MiKTeX_updated\tex/generic/iftex\iftex.sty
+Package: iftex 2024/12/12 v1.0g TeX engine tests
+))
+\Gm@cnth=\count280
+\Gm@cntv=\count281
+\c@Gm@tempcnt=\count282
+\Gm@bindingoffset=\dimen147
+\Gm@wd@mp=\dimen148
+\Gm@odd@mp=\dimen149
+\Gm@even@mp=\dimen150
+\Gm@layoutwidth=\dimen151
+\Gm@layoutheight=\dimen152
+\Gm@layouthoffset=\dimen153
+\Gm@layoutvoffset=\dimen154
+\Gm@dimlist=\toks18
+
+(C:\Users\court\OneDrive\Desktop\MiKTeX_updated\tex/latex/geometry\geometry.cfg
+))
+(C:\Users\court\OneDrive\Desktop\MiKTeX_updated\tex/latex/tools\enumerate.sty
+Package: enumerate 2023/07/04 v3.00 enumerate extensions (DPC)
+\@enLab=\toks19
+)
+(C:\Users\court\OneDrive\Desktop\MiKTeX_updated\tex/latex/xcolor\xcolor.sty
+Package: xcolor 2024/09/29 v3.02 LaTeX color extensions (UK)
+
+(C:\Users\court\OneDrive\Desktop\MiKTeX_updated\tex/latex/graphics-cfg\color.cf
+g
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 274.
+
+(C:\Users\court\OneDrive\Desktop\MiKTeX_updated\tex/latex/graphics-def\pdftex.d
+ef
+File: pdftex.def 2024/04/13 v1.2c Graphics/color driver for pdftex
+)
+(C:\Users\court\OneDrive\Desktop\MiKTeX_updated\tex/latex/graphics\mathcolor.lt
+x)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1349.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1353.
+Package xcolor Info: Model `RGB' extended on input line 1365.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1367.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1370.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1371.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1372.
+) (C:\Users\court\OneDrive\Desktop\MiKTeX_updated\tex/latex/qtree\qtree.sty
+Package: 2008/12/12 v.3.1bQtree: tree-drawing for linguistics
+Package: qtree 2008/12/12 v.3.1bQtree: tree-drawing for linguistics
+(C:\Users\court\OneDrive\Desktop\MiKTeX_updated\tex/latex/pict2e\pict2e.sty
+Package: pict2e 2020/09/30 v0.4b Improved picture commands (HjG,RN,JT)
+
+(C:\Users\court\OneDrive\Desktop\MiKTeX_updated\tex/latex/pict2e\pict2e.cfg
+File: pict2e.cfg 2016/02/05 v0.1u pict2e configuration for teTeX/TeXLive
+)
+Package pict2e Info: Driver file: pdftex.def on input line 112.
+Package pict2e Info: Driver file for pict2e: p2e-pdftex.def on input line 114.
+
+(C:\Users\court\OneDrive\Desktop\MiKTeX_updated\tex/latex/pict2e\p2e-pdftex.def
+File: p2e-pdftex.def 2016/02/05 v0.1u Driver-dependant file (RN,HjG,JT)
+) (C:\Users\court\OneDrive\Desktop\MiKTeX_updated\tex/latex/graphics\trig.sty
+Package: trig 2023/12/02 v1.11 sin cos tan (DPC)
+)
+\pIIe@GRAPH=\toks20
+\@arclen=\dimen155
+\@arcrad=\dimen156
+\pIIe@tempdima=\dimen157
+\pIIe@tempdimb=\dimen158
+\pIIe@tempdimc=\dimen159
+\pIIe@tempdimd=\dimen160
+\pIIe@tempdime=\dimen161
+\pIIe@tempdimf=\dimen162
+)
+\c@treecount=\count283
+\c@branchcount=\count284
+\parentbox=\box53
+\treebox=\box54
+\treeboxone=\box55
+\treeboxtwo=\box56
+\treeboxthree=\box57
+\treeboxfour=\box58
+\treeboxfive=\box59
+\treeboxsix=\box60
+\treeboxseven=\box61
+\treeboxeight=\box62
+\treeboxnine=\box63
+\treeboxten=\box64
+\treeboxeleven=\box65
+\treeboxtwelve=\box66
+\treeboxthirteen=\box67
+\treeboxfourteen=\box68
+\treeboxfifteen=\box69
+\treeboxsixteen=\box70
+\treeboxseventeen=\box71
+\treeboxeighteen=\box72
+\treeboxnineteen=\box73
+\treeboxtwenty=\box74
+\treeoffsetone=\skip51
+\treeoffsettwo=\skip52
+\treeoffsetthree=\skip53
+\treeoffsetfour=\skip54
+\treeoffsetfive=\skip55
+\treeoffsetsix=\skip56
+\treeoffsetseven=\skip57
+\treeoffseteight=\skip58
+\treeoffsetnine=\skip59
+\treeoffsetten=\skip60
+\treeoffseteleven=\skip61
+\treeoffsettwelve=\skip62
+\treeoffsetthirteen=\skip63
+\treeoffsetfourteen=\skip64
+\treeoffsetfifteen=\skip65
+\treeoffsetsixteen=\skip66
+\treeoffsetseventeen=\skip67
+\treeoffseteighteen=\skip68
+\treeoffsetnineteen=\skip69
+\treeoffsettwenty=\skip70
+\treeshiftone=\skip71
+\treeshifttwo=\skip72
+\treeshiftthree=\skip73
+\treeshiftfour=\skip74
+\treeshiftfive=\skip75
+\treeshiftsix=\skip76
+\treeshiftseven=\skip77
+\treeshifteight=\skip78
+\treeshiftnine=\skip79
+\treeshiftten=\skip80
+\treeshifteleven=\skip81
+\treeshifttwelve=\skip82
+\treeshiftthirteen=\skip83
+\treeshiftfourteen=\skip84
+\treeshiftfifteen=\skip85
+\treeshiftsixteen=\skip86
+\treeshiftseventeen=\skip87
+\treeshifteighteen=\skip88
+\treeshiftnineteen=\skip89
+\treeshifttwenty=\skip90
+\treewidthone=\skip91
+\treewidthtwo=\skip92
+\treewidththree=\skip93
+\treewidthfour=\skip94
+\treewidthfive=\skip95
+\treewidthsix=\skip96
+\treewidthseven=\skip97
+\treewidtheight=\skip98
+\treewidthnine=\skip99
+\treewidthten=\skip100
+\treewidtheleven=\skip101
+\treewidthtwelve=\skip102
+\treewidththirteen=\skip103
+\treewidthfourteen=\skip104
+\treewidthfifteen=\skip105
+\treewidthsixteen=\skip106
+\treewidthseventeen=\skip107
+\treewidtheighteen=\skip108
+\treewidthnineteen=\skip109
+\treewidthtwenty=\skip110
+\daughteroffsetone=\skip111
+\daughteroffsettwo=\skip112
+\daughteroffsetthree=\skip113
+\daughteroffsetfour=\skip114
+\branchwidthone=\skip115
+\branchwidthtwo=\skip116
+\branchwidththree=\skip117
+\branchwidthfour=\skip118
+\parentoffset=\skip119
+\treeoffset=\skip120
+\daughteroffset=\skip121
+\branchwidth=\skip122
+\parentwidth=\skip123
+\treewidth=\skip124
+\qta=\toks21
+\qtb=\toks22
+\nbranches=\count285
+\qroofx=\count286
+\qroofy=\count287
+\@qrscratchbox=\box75
+) (C:\Users\court\OneDrive\Desktop\MiKTeX_updated\tex/latex/fge\fge.sty
+Package: fge 2015/05/19 1.25 fge symbol support package
+\symfgerm=\mathgroup4
+\symfgeit=\mathgroup5
+)
+(C:\Users\court\OneDrive\Desktop\MiKTeX_updated\tex/latex/pgf/frontendlayer\tik
+z.sty
+(C:\Users\court\OneDrive\Desktop\MiKTeX_updated\tex/latex/pgf/basiclayer\pgf.st
+y
+(C:\Users\court\OneDrive\Desktop\MiKTeX_updated\tex/latex/pgf/utilities\pgfrcs.
+sty
+(C:\Users\court\OneDrive\Desktop\MiKTeX_updated\tex/generic/pgf/utilities\pgfut
+il-common.tex
+\pgfutil@everybye=\toks23
+\pgfutil@tempdima=\dimen163
+\pgfutil@tempdimb=\dimen164
+)
+(C:\Users\court\OneDrive\Desktop\MiKTeX_updated\tex/generic/pgf/utilities\pgfut
+il-latex.def
+\pgfutil@abb=\box76
+)
+(C:\Users\court\OneDrive\Desktop\MiKTeX_updated\tex/generic/pgf/utilities\pgfrc
+s.code.tex
+(C:\Users\court\OneDrive\Desktop\MiKTeX_updated\tex/generic/pgf\pgf.revision.te
+x)
+Package: pgfrcs 2023-01-15 v3.1.10 (3.1.10)
+))
+Package: pgf 2023-01-15 v3.1.10 (3.1.10)
+
+(C:\Users\court\OneDrive\Desktop\MiKTeX_updated\tex/latex/pgf/basiclayer\pgfcor
+e.sty
+(C:\Users\court\OneDrive\Desktop\MiKTeX_updated\tex/latex/graphics\graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\court\OneDrive\Desktop\MiKTeX_updated\tex/latex/graphics\graphics.sty
+Package: graphics 2024/08/06 v1.4g Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\court\OneDrive\Desktop\MiKTeX_updated\tex/latex/graphics-cfg\graphics
+.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 106.
+)
+\Gin@req@height=\dimen165
+\Gin@req@width=\dimen166
+)
+(C:\Users\court\OneDrive\Desktop\MiKTeX_updated\tex/latex/pgf/systemlayer\pgfsy
+s.sty
+(C:\Users\court\OneDrive\Desktop\MiKTeX_updated\tex/generic/pgf/systemlayer\pgf
+sys.code.tex
+Package: pgfsys 2023-01-15 v3.1.10 (3.1.10)
+
+(C:\Users\court\OneDrive\Desktop\MiKTeX_updated\tex/generic/pgf/utilities\pgfke
+ys.code.tex
+\pgfkeys@pathtoks=\toks24
+\pgfkeys@temptoks=\toks25
+
+(C:\Users\court\OneDrive\Desktop\MiKTeX_updated\tex/generic/pgf/utilities\pgfke
+yslibraryfiltered.code.tex
+\pgfkeys@tmptoks=\toks26
+))
+\pgf@x=\dimen167
+\pgf@y=\dimen168
+\pgf@xa=\dimen169
+\pgf@ya=\dimen170
+\pgf@xb=\dimen171
+\pgf@yb=\dimen172
+\pgf@xc=\dimen173
+\pgf@yc=\dimen174
+\pgf@xd=\dimen175
+\pgf@yd=\dimen176
+\w@pgf@writea=\write3
+\r@pgf@reada=\read2
+\c@pgf@counta=\count288
+\c@pgf@countb=\count289
+\c@pgf@countc=\count290
+\c@pgf@countd=\count291
+\t@pgf@toka=\toks27
+\t@pgf@tokb=\toks28
+\t@pgf@tokc=\toks29
+\pgf@sys@id@count=\count292
+
+(C:\Users\court\OneDrive\Desktop\MiKTeX_updated\tex/generic/pgf/systemlayer\pgf
+.cfg
+File: pgf.cfg 2023-01-15 v3.1.10 (3.1.10)
+)
+Driver file for pgf: pgfsys-pdftex.def
+
+(C:\Users\court\OneDrive\Desktop\MiKTeX_updated\tex/generic/pgf/systemlayer\pgf
+sys-pdftex.def
+File: pgfsys-pdftex.def 2023-01-15 v3.1.10 (3.1.10)
+
+(C:\Users\court\OneDrive\Desktop\MiKTeX_updated\tex/generic/pgf/systemlayer\pgf
+sys-common-pdf.def
+File: pgfsys-common-pdf.def 2023-01-15 v3.1.10 (3.1.10)
+)))
+(C:\Users\court\OneDrive\Desktop\MiKTeX_updated\tex/generic/pgf/systemlayer\pgf
+syssoftpath.code.tex
+File: pgfsyssoftpath.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfsyssoftpath@smallbuffer@items=\count293
+\pgfsyssoftpath@bigbuffer@items=\count294
+)
+(C:\Users\court\OneDrive\Desktop\MiKTeX_updated\tex/generic/pgf/systemlayer\pgf
+sysprotocol.code.tex
+File: pgfsysprotocol.code.tex 2023-01-15 v3.1.10 (3.1.10)
+))
+(C:\Users\court\OneDrive\Desktop\MiKTeX_updated\tex/generic/pgf/basiclayer\pgfc
+ore.code.tex
+Package: pgfcore 2023-01-15 v3.1.10 (3.1.10)
+
+(C:\Users\court\OneDrive\Desktop\MiKTeX_updated\tex/generic/pgf/math\pgfmath.co
+de.tex
+(C:\Users\court\OneDrive\Desktop\MiKTeX_updated\tex/generic/pgf/math\pgfmathuti
+l.code.tex)
+(C:\Users\court\OneDrive\Desktop\MiKTeX_updated\tex/generic/pgf/math\pgfmathpar
+ser.code.tex
+\pgfmath@dimen=\dimen177
+\pgfmath@count=\count295
+\pgfmath@box=\box77
+\pgfmath@toks=\toks30
+\pgfmath@stack@operand=\toks31
+\pgfmath@stack@operation=\toks32
+)
+(C:\Users\court\OneDrive\Desktop\MiKTeX_updated\tex/generic/pgf/math\pgfmathfun
+ctions.code.tex)
+(C:\Users\court\OneDrive\Desktop\MiKTeX_updated\tex/generic/pgf/math\pgfmathfun
+ctions.basic.code.tex)
+(C:\Users\court\OneDrive\Desktop\MiKTeX_updated\tex/generic/pgf/math\pgfmathfun
+ctions.trigonometric.code.tex)
+(C:\Users\court\OneDrive\Desktop\MiKTeX_updated\tex/generic/pgf/math\pgfmathfun
+ctions.random.code.tex)
+(C:\Users\court\OneDrive\Desktop\MiKTeX_updated\tex/generic/pgf/math\pgfmathfun
+ctions.comparison.code.tex)
+(C:\Users\court\OneDrive\Desktop\MiKTeX_updated\tex/generic/pgf/math\pgfmathfun
+ctions.base.code.tex)
+(C:\Users\court\OneDrive\Desktop\MiKTeX_updated\tex/generic/pgf/math\pgfmathfun
+ctions.round.code.tex)
+(C:\Users\court\OneDrive\Desktop\MiKTeX_updated\tex/generic/pgf/math\pgfmathfun
+ctions.misc.code.tex)
+(C:\Users\court\OneDrive\Desktop\MiKTeX_updated\tex/generic/pgf/math\pgfmathfun
+ctions.integerarithmetics.code.tex)
+(C:\Users\court\OneDrive\Desktop\MiKTeX_updated\tex/generic/pgf/math\pgfmathcal
+c.code.tex)
+(C:\Users\court\OneDrive\Desktop\MiKTeX_updated\tex/generic/pgf/math\pgfmathflo
+at.code.tex
+\c@pgfmathroundto@lastzeros=\count296
+))
+(C:\Users\court\OneDrive\Desktop\MiKTeX_updated\tex/generic/pgf/math\pgfint.cod
+e.tex)
+(C:\Users\court\OneDrive\Desktop\MiKTeX_updated\tex/generic/pgf/basiclayer\pgfc
+orepoints.code.tex
+File: pgfcorepoints.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@picminx=\dimen178
+\pgf@picmaxx=\dimen179
+\pgf@picminy=\dimen180
+\pgf@picmaxy=\dimen181
+\pgf@pathminx=\dimen182
+\pgf@pathmaxx=\dimen183
+\pgf@pathminy=\dimen184
+\pgf@pathmaxy=\dimen185
+\pgf@xx=\dimen186
+\pgf@xy=\dimen187
+\pgf@yx=\dimen188
+\pgf@yy=\dimen189
+\pgf@zx=\dimen190
+\pgf@zy=\dimen191
+)
+(C:\Users\court\OneDrive\Desktop\MiKTeX_updated\tex/generic/pgf/basiclayer\pgfc
+orepathconstruct.code.tex
+File: pgfcorepathconstruct.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@path@lastx=\dimen192
+\pgf@path@lasty=\dimen193
+)
+(C:\Users\court\OneDrive\Desktop\MiKTeX_updated\tex/generic/pgf/basiclayer\pgfc
+orepathusage.code.tex
+File: pgfcorepathusage.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@shorten@end@additional=\dimen194
+\pgf@shorten@start@additional=\dimen195
+)
+(C:\Users\court\OneDrive\Desktop\MiKTeX_updated\tex/generic/pgf/basiclayer\pgfc
+orescopes.code.tex
+File: pgfcorescopes.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfpic=\box78
+\pgf@hbox=\box79
+\pgf@layerbox@main=\box80
+\pgf@picture@serial@count=\count297
+)
+(C:\Users\court\OneDrive\Desktop\MiKTeX_updated\tex/generic/pgf/basiclayer\pgfc
+oregraphicstate.code.tex
+File: pgfcoregraphicstate.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgflinewidth=\dimen196
+)
+(C:\Users\court\OneDrive\Desktop\MiKTeX_updated\tex/generic/pgf/basiclayer\pgfc
+oretransformations.code.tex
+File: pgfcoretransformations.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@pt@x=\dimen197
+\pgf@pt@y=\dimen198
+\pgf@pt@temp=\dimen199
+)
+(C:\Users\court\OneDrive\Desktop\MiKTeX_updated\tex/generic/pgf/basiclayer\pgfc
+orequick.code.tex
+File: pgfcorequick.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:\Users\court\OneDrive\Desktop\MiKTeX_updated\tex/generic/pgf/basiclayer\pgfc
+oreobjects.code.tex
+File: pgfcoreobjects.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:\Users\court\OneDrive\Desktop\MiKTeX_updated\tex/generic/pgf/basiclayer\pgfc
+orepathprocessing.code.tex
+File: pgfcorepathprocessing.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:\Users\court\OneDrive\Desktop\MiKTeX_updated\tex/generic/pgf/basiclayer\pgfc
+orearrows.code.tex
+File: pgfcorearrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfarrowsep=\dimen256
+)
+(C:\Users\court\OneDrive\Desktop\MiKTeX_updated\tex/generic/pgf/basiclayer\pgfc
+oreshade.code.tex
+File: pgfcoreshade.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@max=\dimen257
+\pgf@sys@shading@range@num=\count298
+\pgf@shadingcount=\count299
+)
+(C:\Users\court\OneDrive\Desktop\MiKTeX_updated\tex/generic/pgf/basiclayer\pgfc
+oreimage.code.tex
+File: pgfcoreimage.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:\Users\court\OneDrive\Desktop\MiKTeX_updated\tex/generic/pgf/basiclayer\pgfc
+oreexternal.code.tex
+File: pgfcoreexternal.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfexternal@startupbox=\box81
+)
+(C:\Users\court\OneDrive\Desktop\MiKTeX_updated\tex/generic/pgf/basiclayer\pgfc
+orelayers.code.tex
+File: pgfcorelayers.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:\Users\court\OneDrive\Desktop\MiKTeX_updated\tex/generic/pgf/basiclayer\pgfc
+oretransparency.code.tex
+File: pgfcoretransparency.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:\Users\court\OneDrive\Desktop\MiKTeX_updated\tex/generic/pgf/basiclayer\pgfc
+orepatterns.code.tex
+File: pgfcorepatterns.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:\Users\court\OneDrive\Desktop\MiKTeX_updated\tex/generic/pgf/basiclayer\pgfc
+orerdf.code.tex
+File: pgfcorerdf.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)))
+(C:\Users\court\OneDrive\Desktop\MiKTeX_updated\tex/generic/pgf/modules\pgfmodu
+leshapes.code.tex
+File: pgfmoduleshapes.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfnodeparttextbox=\box82
+)
+(C:\Users\court\OneDrive\Desktop\MiKTeX_updated\tex/generic/pgf/modules\pgfmodu
+leplot.code.tex
+File: pgfmoduleplot.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:\Users\court\OneDrive\Desktop\MiKTeX_updated\tex/latex/pgf/compatibility\pgf
+comp-version-0-65.sty
+Package: pgfcomp-version-0-65 2023-01-15 v3.1.10 (3.1.10)
+\pgf@nodesepstart=\dimen258
+\pgf@nodesepend=\dimen259
+)
+(C:\Users\court\OneDrive\Desktop\MiKTeX_updated\tex/latex/pgf/compatibility\pgf
+comp-version-1-18.sty
+Package: pgfcomp-version-1-18 2023-01-15 v3.1.10 (3.1.10)
+))
+(C:\Users\court\OneDrive\Desktop\MiKTeX_updated\tex/latex/pgf/utilities\pgffor.
+sty
+(C:\Users\court\OneDrive\Desktop\MiKTeX_updated\tex/latex/pgf/utilities\pgfkeys
+.sty
+(C:\Users\court\OneDrive\Desktop\MiKTeX_updated\tex/generic/pgf/utilities\pgfke
+ys.code.tex))
+(C:\Users\court\OneDrive\Desktop\MiKTeX_updated\tex/latex/pgf/math\pgfmath.sty
+(C:\Users\court\OneDrive\Desktop\MiKTeX_updated\tex/generic/pgf/math\pgfmath.co
+de.tex))
+(C:\Users\court\OneDrive\Desktop\MiKTeX_updated\tex/generic/pgf/utilities\pgffo
+r.code.tex
+Package: pgffor 2023-01-15 v3.1.10 (3.1.10)
+\pgffor@iter=\dimen260
+\pgffor@skip=\dimen261
+\pgffor@stack=\toks33
+\pgffor@toks=\toks34
+))
+(C:\Users\court\OneDrive\Desktop\MiKTeX_updated\tex/generic/pgf/frontendlayer/t
+ikz\tikz.code.tex
+Package: tikz 2023-01-15 v3.1.10 (3.1.10)
+
+(C:\Users\court\OneDrive\Desktop\MiKTeX_updated\tex/generic/pgf/libraries\pgfli
+braryplothandlers.code.tex
+File: pgflibraryplothandlers.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@plot@mark@count=\count300
+\pgfplotmarksize=\dimen262
+)
+\tikz@lastx=\dimen263
+\tikz@lasty=\dimen264
+\tikz@lastxsaved=\dimen265
+\tikz@lastysaved=\dimen266
+\tikz@lastmovetox=\dimen267
+\tikz@lastmovetoy=\dimen268
+\tikzleveldistance=\dimen269
+\tikzsiblingdistance=\dimen270
+\tikz@figbox=\box83
+\tikz@figbox@bg=\box84
+\tikz@tempbox=\box85
+\tikz@tempbox@bg=\box86
+\tikztreelevel=\count301
+\tikznumberofchildren=\count302
+\tikznumberofcurrentchild=\count303
+\tikz@fig@count=\count304
+
+(C:\Users\court\OneDrive\Desktop\MiKTeX_updated\tex/generic/pgf/modules\pgfmodu
+lematrix.code.tex
+File: pgfmodulematrix.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfmatrixcurrentrow=\count305
+\pgfmatrixcurrentcolumn=\count306
+\pgf@matrix@numberofcolumns=\count307
+)
+\tikz@expandcount=\count308
+
+(C:\Users\court\OneDrive\Desktop\MiKTeX_updated\tex/generic/pgf/frontendlayer/t
+ikz/libraries\tikzlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)))
+(C:\Users\court\OneDrive\Desktop\MiKTeX_updated\tex/latex/tikz-qtree\tikz-qtree
+.sty
+(C:\Users\court\OneDrive\Desktop\MiKTeX_updated\tex/latex/tikz-qtree\pgftree.st
+y
+(C:\Users\court\OneDrive\Desktop\MiKTeX_updated\tex/latex/tikz-qtree\pgfsubpic.
+sty
+(C:\Users\court\OneDrive\Desktop\MiKTeX_updated\tex/generic/tikz-qtree\pgfsubpi
+c.tex
+\pgf@subpicminx=\dimen271
+\pgf@subpicminy=\dimen272
+\pgf@subpicmaxx=\dimen273
+\pgf@subpicmaxy=\dimen274
+))
+(C:\Users\court\OneDrive\Desktop\MiKTeX_updated\tex/generic/tikz-qtree\pgftree.
+tex
+\levelsep=\dimen275
+\subtreesep=\dimen276
+\smuggle@levelsep=\dimen277
+\smuggle@subtreesep=\dimen278
+\this@levelsep=\dimen279
+\this@subtreesep=\dimen280
+\pgftree@childx=\dimen281
+\pgftree@savechildx=\dimen282
+\pgftree@childy=\dimen283
+\pgftree@savechildy=\dimen284
+\pgftree@childi=\count309
+\pgftree@savechildi=\count310
+\pgftree@level=\count311
+\pgftree@depth=\dimen285
+\pgf@subpic@hbox@children=\box87
+\pgf@subpic@minx@children=\dimen286
+\pgf@subpic@miny@children=\dimen287
+\pgf@subpic@maxx@children=\dimen288
+\pgf@subpic@maxy@children=\dimen289
+\pgftree@lastchildx=\dimen290
+\pgftree@lastchildy=\dimen291
+))
+(C:\Users\court\OneDrive\Desktop\MiKTeX_updated\tex/generic/tikz-qtree\tikz-qtr
+ee.tex
+\@result=\toks35
+\child@list=\toks36
+\root@node=\toks37
+))
+(C:\Users\court\OneDrive\Desktop\MiKTeX_updated\tex/latex/amsmath\amsmath.sty
+Package: amsmath 2024/11/05 v2.17t AMS math features
+\@mathmargin=\skip125
+
+For additional information on amsmath, use the `?' option.
+(C:\Users\court\OneDrive\Desktop\MiKTeX_updated\tex/latex/amsmath\amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+
+(C:\Users\court\OneDrive\Desktop\MiKTeX_updated\tex/latex/amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks38
+\ex@=\dimen292
+))
+(C:\Users\court\OneDrive\Desktop\MiKTeX_updated\tex/latex/amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen293
+)
+(C:\Users\court\OneDrive\Desktop\MiKTeX_updated\tex/latex/amsmath\amsopn.sty
+Package: amsopn 2022/04/08 v2.04 operator names
+)
+\inf@bad=\count312
+LaTeX Info: Redefining \frac on input line 233.
+\uproot@=\count313
+\leftroot@=\count314
+LaTeX Info: Redefining \overline on input line 398.
+LaTeX Info: Redefining \colon on input line 409.
+\classnum@=\count315
+\DOTSCASE@=\count316
+LaTeX Info: Redefining \ldots on input line 495.
+LaTeX Info: Redefining \dots on input line 498.
+LaTeX Info: Redefining \cdots on input line 619.
+\Mathstrutbox@=\box88
+\strutbox@=\box89
+LaTeX Info: Redefining \big on input line 721.
+LaTeX Info: Redefining \Big on input line 722.
+LaTeX Info: Redefining \bigg on input line 723.
+LaTeX Info: Redefining \Bigg on input line 724.
+\big@size=\dimen294
+LaTeX Font Info:    Redeclaring font encoding OML on input line 742.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 743.
+\macc@depth=\count317
+LaTeX Info: Redefining \bmod on input line 904.
+LaTeX Info: Redefining \pmod on input line 909.
+LaTeX Info: Redefining \smash on input line 939.
+LaTeX Info: Redefining \relbar on input line 969.
+LaTeX Info: Redefining \Relbar on input line 970.
+\c@MaxMatrixCols=\count318
+\dotsspace@=\muskip17
+\c@parentequation=\count319
+\dspbrk@lvl=\count320
+\tag@help=\toks39
+\row@=\count321
+\column@=\count322
+\maxfields@=\count323
+\andhelp@=\toks40
+\eqnshift@=\dimen295
+\alignsep@=\dimen296
+\tagshift@=\dimen297
+\tagwidth@=\dimen298
+\totwidth@=\dimen299
+\lineht@=\dimen300
+\@envbody=\toks41
+\multlinegap=\skip126
+\multlinetaggap=\skip127
+\mathdisplay@stack=\toks42
+LaTeX Info: Redefining \[ on input line 2953.
+LaTeX Info: Redefining \] on input line 2954.
+)
+(C:\Users\court\OneDrive\Desktop\MiKTeX_updated\tex/latex/amscls\amsthm.sty
+Package: amsthm 2020/05/29 v2.20.6
+\thm@style=\toks43
+\thm@bodyfont=\toks44
+\thm@headfont=\toks45
+\thm@notefont=\toks46
+\thm@headpunct=\toks47
+\thm@preskip=\skip128
+\thm@postskip=\skip129
+\thm@headsep=\skip130
+\dth@everypar=\toks48
+)
+(C:\Users\court\OneDrive\Desktop\MiKTeX_updated\tex/latex/amsfonts\amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(C:\Users\court\OneDrive\Desktop\MiKTeX_updated\tex/latex/amsfonts\amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup6
+\symAMSb=\mathgroup7
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)) (C:\Users\court\OneDrive\Desktop\MiKTeX_updated\tex/latex/base\latexsym.sty
+Package: latexsym 1998/08/17 v2.2e Standard LaTeX package (lasy symbols)
+\symlasy=\mathgroup8
+LaTeX Font Info:    Overwriting symbol font `lasy' in version `bold'
+(Font)                  U/lasy/m/n --> U/lasy/b/n on input line 52.
+)
+(C:\Users\court\OneDrive\Desktop\MiKTeX_updated\tex/latex/fancyhdr\fancyhdr.sty
+Package: fancyhdr 2025/02/07 v5.2 Extensive control of page headers and footers
+
+\f@nch@headwidth=\skip131
+\f@nch@offset@elh=\skip132
+\f@nch@offset@erh=\skip133
+\f@nch@offset@olh=\skip134
+\f@nch@offset@orh=\skip135
+\f@nch@offset@elf=\skip136
+\f@nch@offset@erf=\skip137
+\f@nch@offset@olf=\skip138
+\f@nch@offset@orf=\skip139
+\f@nch@height=\skip140
+\f@nch@footalignment=\skip141
+\f@nch@widthL=\skip142
+\f@nch@widthC=\skip143
+\f@nch@widthR=\skip144
+\@temptokenb=\toks49
+)
+(C:\Users\court\OneDrive\Desktop\MiKTeX_updated\tex/latex/stmaryrd\stmaryrd.sty
+Package: stmaryrd 1994/03/03 St Mary's Road symbol package
+\symstmry=\mathgroup9
+LaTeX Font Info:    Overwriting symbol font `stmry' in version `bold'
+(Font)                  U/stmry/m/n --> U/stmry/b/n on input line 89.
+)
+(C:\Users\court\OneDrive\Desktop\MiKTeX_updated\tex/latex/jknappen\mathrsfs.sty
+Package: mathrsfs 1996/01/01 Math RSFS package v1.0 (jk)
+\symrsfs=\mathgroup10
+) (C:\Users\court\OneDrive\Desktop\MiKTeX_updated\tex/generic/soul\soul.sty
+Package: soul 2023-06-14 v3.1 Permit use of UTF-8 characters in soul (HO)
+
+(C:\Users\court\OneDrive\Desktop\MiKTeX_updated\tex/generic/soul\soul-ori.sty
+Package: soul-ori 2023-06-14 v3.1 letterspacing/underlining (mf)
+\SOUL@word=\toks50
+\SOUL@lasttoken=\toks51
+\SOUL@syllable=\toks52
+\SOUL@cmds=\toks53
+\SOUL@buffer=\toks54
+\SOUL@token=\toks55
+\SOUL@syllgoal=\dimen301
+\SOUL@syllwidth=\dimen302
+\SOUL@charkern=\dimen303
+\SOUL@hyphkern=\dimen304
+\SOUL@dimen=\dimen305
+\SOUL@dimeni=\dimen306
+\SOUL@minus=\count324
+\SOUL@comma=\count325
+\SOUL@apo=\count326
+\SOUL@grave=\count327
+\SOUL@spaceskip=\skip145
+\SOUL@ttwidth=\dimen307
+\SOUL@uldp=\dimen308
+\SOUL@ulht=\dimen309
+)
+(C:\Users\court\OneDrive\Desktop\MiKTeX_updated\tex/generic/infwarerr\infwarerr
+.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+(C:\Users\court\OneDrive\Desktop\MiKTeX_updated\tex/generic/etexcmds\etexcmds.s
+ty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+))
+(C:\Users\court\OneDrive\Desktop\MiKTeX_updated\tex/latex/base\inputenc.sty
+Package: inputenc 2024/02/08 v1.3d Input encoding file
+\inpenc@prehook=\toks56
+\inpenc@posthook=\toks57
+)
+(C:\Users\court\OneDrive\Desktop\MiKTeX_updated\tex/latex/base\fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+)
+(C:\Users\court\OneDrive\Desktop\MiKTeX_updated\tex/latex/ot-tableau\ot-tableau
+.sty
+Package: ot-tableau 2023-08-01
+
+(C:\Users\court\OneDrive\Desktop\MiKTeX_updated\tex/latex/xstring\xstring.sty
+(C:\Users\court\OneDrive\Desktop\MiKTeX_updated\tex/generic/xstring\xstring.tex
+\xs_counta=\count328
+\xs_countb=\count329
+)
+Package: xstring 2023/08/22 v1.86 String manipulations (CT)
+) (C:\Users\court\OneDrive\Desktop\MiKTeX_updated\tex/latex/bbding\bbding.sty
+Package: bbding 1999/04/15 v1.01 Dingbats symbols
+) (C:\Users\court\OneDrive\Desktop\MiKTeX_updated\tex/latex/bigfoot\suffix.sty
+Package: suffix 2006/07/15 1.5a Variant command support
+)
+(C:\Users\court\OneDrive\Desktop\MiKTeX_updated\tex/latex/colortbl\colortbl.sty
+Package: colortbl 2024/07/06 v1.0i Color table columns (DPC)
+(C:\Users\court\OneDrive\Desktop\MiKTeX_updated\tex/latex/tools\array.sty
+Package: array 2024/10/17 v2.6g Tabular extension package (FMi)
+\col@sep=\dimen310
+\ar@mcellbox=\box90
+\extrarowheight=\dimen311
+\NC@list=\toks58
+\extratabsurround=\skip146
+\backup@length=\skip147
+\ar@cellbox=\box91
+)
+\everycr=\toks59
+\minrowclearance=\skip148
+\rownum=\count330
+)
+(C:\Users\court\OneDrive\Desktop\MiKTeX_updated\tex/latex/graphics\rotating.sty
+Package: rotating 2016/08/11 v2.16d rotated objects in LaTeX
+(C:\Users\court\OneDrive\Desktop\MiKTeX_updated\tex/latex/base\ifthen.sty
+Package: ifthen 2024/03/16 v1.1e Standard LaTeX ifthen package (DPC)
+)
+\c@r@tfl@t=\count331
+\rotFPtop=\skip149
+\rotFPbot=\skip150
+\rot@float@box=\box92
+\rot@mess@toks=\toks60
+)
+(C:\Users\court\OneDrive\Desktop\MiKTeX_updated\tex/latex/arydshln\arydshln.sty
+Package: arydshln 2019/02/21 v1.76 
+\dashlinedash=\dimen312
+\dashlinegap=\dimen313
+\adl@box=\box93
+\adl@height=\dimen314
+\adl@heightsave=\dimen315
+\adl@depth=\dimen316
+\adl@depthsave=\dimen317
+\adl@finaldepth=\dimen318
+\adl@columns=\count332
+\adl@ncol=\count333
+\adl@currentcolumn=\count334
+\adl@currentcolumnsave=\count335
+\adl@totalheight=\count336
+\adl@totalheightsave=\count337
+\adl@dash=\count338
+\adl@gap=\count339
+\adl@cla=\count340
+\adl@clb=\count341
+\adl@everyvbox=\toks61
+\adl@LTpagetotal=\dimen319
+) (C:\Users\court\OneDrive\Desktop\MiKTeX_updated\tex/latex/tipa\tipa.sty
+Package: tipa 2002/08/08 TIPA version 1.1
+
+(C:\Users\court\OneDrive\Desktop\MiKTeX_updated\tex/latex/base\fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+
+(C:\Users\court\OneDrive\Desktop\MiKTeX_updated\tex/latex/tipa\t3enc.def
+File: t3enc.def 2001/12/31 T3 encoding
+Now handling font encoding T3 ...
+... no UTF-8 mapping file for font encoding T3
+)))
+\c@tableaurow=\count342
+)
+(C:\Users\court\OneDrive\Desktop\MiKTeX_updated\tex/latex/tools\multicol.sty
+Package: multicol 2024/09/14 v1.9i multicolumn formatting (FMi)
+\c@tracingmulticols=\count343
+\mult@box=\box94
+\multicol@leftmargin=\dimen320
+\c@unbalance=\count344
+\c@collectmore=\count345
+\doublecol@number=\count346
+\multicoltolerance=\count347
+\multicolpretolerance=\count348
+\full@width=\dimen321
+\page@free=\dimen322
+\premulticols=\dimen323
+\postmulticols=\dimen324
+\multicolsep=\skip151
+\multicolbaselineskip=\skip152
+\partial@page=\box95
+\last@line=\box96
+\mc@boxedresult=\box97
+\maxbalancingoverflow=\dimen325
+\mult@rightbox=\box98
+\mult@grightbox=\box99
+\mult@firstbox=\box100
+\mult@gfirstbox=\box101
+\@tempa=\box102
+\@tempa=\box103
+\@tempa=\box104
+\@tempa=\box105
+\@tempa=\box106
+\@tempa=\box107
+\@tempa=\box108
+\@tempa=\box109
+\@tempa=\box110
+\@tempa=\box111
+\@tempa=\box112
+\@tempa=\box113
+\@tempa=\box114
+\@tempa=\box115
+\@tempa=\box116
+\@tempa=\box117
+\@tempa=\box118
+\@tempa=\box119
+\@tempa=\box120
+\@tempa=\box121
+\@tempa=\box122
+\@tempa=\box123
+\@tempa=\box124
+\@tempa=\box125
+\@tempa=\box126
+\@tempa=\box127
+\@tempa=\box128
+\@tempa=\box129
+\@tempa=\box130
+\@tempa=\box131
+\@tempa=\box132
+\@tempa=\box133
+\@tempa=\box134
+\@tempa=\box135
+\@tempa=\box136
+\@tempa=\box137
+\c@minrows=\count349
+\c@columnbadness=\count350
+\c@finalcolumnbadness=\count351
+\last@try=\dimen326
+\multicolovershoot=\dimen327
+\multicolundershoot=\dimen328
+\mult@nat@firstbox=\box138
+\colbreak@box=\box139
+\mc@col@check@num=\count352
+)
+(C:\Users\court\OneDrive\Desktop\MiKTeX_updated\tex/latex/tipa\tipx.sty
+Package: tipx 2003/01/01 TIPX version 1.2
+)
+(C:\Users\court\OneDrive\Desktop\MiKTeX_updated\tex/latex/psnfss\mathpazo.sty
+Package: mathpazo 2020/03/25 PSNFSS-v9.3 Palatino w/ Pazo Math (D.Puga, WaS) 
+\symupright=\mathgroup11
+)
+(C:\Users\court\OneDrive\Desktop\MiKTeX_updated\tex/latex/psnfss\helvet.sty
+Package: helvet 2020/03/25 PSNFSS-v9.3 (WaS) 
+)
+(C:\Users\court\OneDrive\Desktop\MiKTeX_updated\tex/latex/psnfss\courier.sty
+Package: courier 2020/03/25 PSNFSS-v9.3 (WaS) 
+)
+(C:\Users\court\OneDrive\Desktop\MiKTeX_updated\tex/latex/tex-gyre\tgpagella.st
+y
+Package: tgpagella 2009/09/27 v1.2 TeX Gyre Pagella as default roman family
+
+(C:\Users\court\OneDrive\Desktop\MiKTeX_updated\tex/latex/kvoptions\kvoptions.s
+ty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+
+(C:\Users\court\OneDrive\Desktop\MiKTeX_updated\tex/generic/ltxcmds\ltxcmds.sty
+Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
+)
+(C:\Users\court\OneDrive\Desktop\MiKTeX_updated\tex/latex/kvsetkeys\kvsetkeys.s
+ty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+))) (C:\Users\court\OneDrive\Desktop\MiKTeX_updated\tex/latex/gb4e\gb4e.sty
+(C:\Users\court\OneDrive\Desktop\MiKTeX_updated\tex/latex/gb4e\cgloss4e.sty
+\lineone=\box140
+\linetwo=\box141
+\linethree=\box142
+\wordone=\box143
+\wordtwo=\box144
+\wordthree=\box145
+\gline=\box146
+\glossglue=\skip153
+)
+\c@fnx=\count353
+\@xnumdepth=\count354
+\c@xnumi=\count355
+\c@xnumii=\count356
+\c@xnumiii=\count357
+\c@xnumiv=\count358
+\c@exx=\count359
+\c@rxnumi=\count360
+\c@rxnumii=\count361
+\c@rxnumiii=\count362
+\c@rxnumiv=\count363
+\lcommentsep=\skip154
+)
+LaTeX Font Info:    Trying to load font information for T1+qpl on input line 35
+.
+
+(C:\Users\court\OneDrive\Desktop\MiKTeX_updated\tex/latex/tex-gyre\t1qpl.fd
+File: t1qpl.fd 2009/09/25 v1.2 font definition file for T1/qpl
+)
+(C:\Users\court\OneDrive\Desktop\MiKTeX_updated\tex/latex/l3backend\l3backend-p
+dftex.def
+File: l3backend-pdftex.def 2025-04-14 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count364
+) (SuB30_typeset.aux)
+\openout1 = `SuB30_typeset.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 35.
+LaTeX Font Info:    Trying to load font information for T3+cmr on input line 35
+.
+
+(C:\Users\court\OneDrive\Desktop\MiKTeX_updated\tex/latex/tipa\t3cmr.fd
+File: t3cmr.fd 2001/12/31 TIPA font definitions
+)
+LaTeX Font Info:    ... okay on input line 35.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(72.26999pt, 452.9679pt, 72.26999pt)
+* v-part:(T,H,B)=(72.26999pt, 700.50687pt, 72.26999pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=452.9679pt
+* \textheight=700.50687pt
+* \oddsidemargin=0.0pt
+* \evensidemargin=0.0pt
+* \topmargin=-37.0pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=11.0pt
+* \footskip=30.0pt
+* \marginparwidth=50.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+
+(C:\Users\court\OneDrive\Desktop\MiKTeX_updated\tex/context/base/mkii\supp-pdf.
+mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count365
+\scratchdimen=\dimen329
+\scratchbox=\box147
+\nofMPsegments=\count366
+\nofMParguments=\count367
+\everyMPshowfont=\toks62
+\MPscratchCnt=\count368
+\MPscratchDim=\dimen330
+\MPnumerator=\count369
+\makeMPintoPDFobject=\count370
+\everyMPtoPDFconversion=\toks63
+)
+(C:\Users\court\OneDrive\Desktop\MiKTeX_updated\tex/latex/epstopdf-pkg\epstopdf
+-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(C:\Users\court\OneDrive\Desktop\MiKTeX_updated\tex/latex/00miktex\epstopdf-sys
+.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+LaTeX Font Info:    Trying to load font information for OT1+pplx on input line 
+81.
+
+(C:\Users\court\OneDrive\Desktop\MiKTeX_updated\tex/latex/psnfss\ot1pplx.fd
+File: ot1pplx.fd 2004/09/06 font definitions for OT1/pplx.
+)
+LaTeX Font Info:    Trying to load font information for OML+zplm on input line 
+81.
+
+(C:\Users\court\OneDrive\Desktop\MiKTeX_updated\tex/latex/psnfss\omlzplm.fd
+File: omlzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OML/zplm.
+)
+LaTeX Font Info:    Trying to load font information for OMS+zplm on input line 
+81.
+
+(C:\Users\court\OneDrive\Desktop\MiKTeX_updated\tex/latex/psnfss\omszplm.fd
+File: omszplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMS/zplm.
+)
+LaTeX Font Info:    Trying to load font information for OMX+zplm on input line 
+81.
+
+(C:\Users\court\OneDrive\Desktop\MiKTeX_updated\tex/latex/psnfss\omxzplm.fd
+File: omxzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMX/zplm.
+)
+LaTeX Font Info:    Trying to load font information for U+fgerm on input line 8
+1.
+
+(C:\Users\court\OneDrive\Desktop\MiKTeX_updated\tex/latex/fge\ufgerm.fd
+File: fgerm.fd 2015/05/19 1.25 fge roman symbol font definitions
+)
+LaTeX Font Info:    Trying to load font information for U+fgeit on input line 8
+1.
+
+(C:\Users\court\OneDrive\Desktop\MiKTeX_updated\tex/latex/fge\ufgeit.fd
+File: fgeit.fd 2015/05/19 1.25 fge italic symbol font definitions
+)
+LaTeX Font Info:    Font shape `U/msa/m/n' will be
+(Font)              scaled to size 11.40997pt on input line 81.
+LaTeX Font Info:    Font shape `U/msa/m/n' will be
+(Font)              scaled to size 8.33606pt on input line 81.
+LaTeX Font Info:    Font shape `U/msa/m/n' will be
+(Font)              scaled to size 6.25204pt on input line 81.
+LaTeX Font Info:    Font shape `U/msb/m/n' will be
+(Font)              scaled to size 11.40997pt on input line 81.
+LaTeX Font Info:    Font shape `U/msb/m/n' will be
+(Font)              scaled to size 8.33606pt on input line 81.
+LaTeX Font Info:    Font shape `U/msb/m/n' will be
+(Font)              scaled to size 6.25204pt on input line 81.
+LaTeX Font Info:    Trying to load font information for U+lasy on input line 81
+.
+
+(C:\Users\court\OneDrive\Desktop\MiKTeX_updated\tex/latex/base\ulasy.fd
+File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
+)
+LaTeX Font Info:    Trying to load font information for U+stmry on input line 8
+1.
+
+(C:\Users\court\OneDrive\Desktop\MiKTeX_updated\tex/latex/stmaryrd\ustmry.fd)
+LaTeX Font Info:    Trying to load font information for U+rsfs on input line 81
+.
+
+(C:\Users\court\OneDrive\Desktop\MiKTeX_updated\tex/latex/jknappen\ursfs.fd
+File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
+)
+LaTeX Font Info:    Trying to load font information for OT1+zplm on input line 
+81.
+
+(C:\Users\court\OneDrive\Desktop\MiKTeX_updated\tex/latex/psnfss\ot1zplm.fd
+File: ot1zplm.fd 2002/09/08 Fontinst v1.914 font definitions for OT1/zplm.
+)
+LaTeX Font Info:    Font shape `U/msa/m/n' will be
+(Font)              scaled to size 15.0049pt on input line 82.
+LaTeX Font Info:    Font shape `U/msa/m/n' will be
+(Font)              scaled to size 10.42007pt on input line 82.
+LaTeX Font Info:    Font shape `U/msb/m/n' will be
+(Font)              scaled to size 15.0049pt on input line 82.
+LaTeX Font Info:    Font shape `U/msb/m/n' will be
+(Font)              scaled to size 10.42007pt on input line 82.
+
+
+[1
+
+{C:/Users/court/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/cour
+t/OneDrive/Desktop/MiKTeX_updated/fonts/enc/dvips/tex-gyre/q-ec.enc}{C:/Users/c
+ourt/OneDrive/Desktop/MiKTeX_updated/fonts/enc/dvips/tex-gyre/q-ec-sc.enc}{C:/U
+sers/court/OneDrive/Desktop/MiKTeX_updated/fonts/enc/dvips/base/8r.enc}]
+
+[2]
+
+[3]
+
+[4] (SuB30_typeset.aux)
+ ***********
+LaTeX2e <2024-11-01> patch level 2
+L3 programming layer <2025-04-14>
+ ***********
+ ) 
+Here is how much of TeX's memory you used:
+ 19300 strings out of 469941
+ 364403 string characters out of 5468469
+ 726193 words of memory out of 5000000
+ 45663 multiletter control sequences out of 15000+600000
+ 717796 words of font info for 157 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 94i,10n,93p,419b,916s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Users/court/OneDrive/Desktop/MiKTeX_updated/fonts/type1/public/amsfonts/c
+m/cmmi10.pfb><C:/Users/court/OneDrive/Desktop/MiKTeX_updated/fonts/type1/public
+/amsfonts/cm/cmr10.pfb><C:/Users/court/OneDrive/Desktop/MiKTeX_updated/fonts/ty
+pe1/public/amsfonts/cm/cmsy10.pfb><C:/Users/court/OneDrive/Desktop/MiKTeX_updat
+ed/fonts/type1/public/mathpazo/fplmr.pfb><C:/Users/court/OneDrive/Desktop/MiKTe
+X_updated/fonts/type1/public/mathpazo/fplmri.pfb><C:/Users/court/OneDrive/Deskt
+op/MiKTeX_updated/fonts/type1/public/tex-gyre/qplb.pfb><C:/Users/court/OneDrive
+/Desktop/MiKTeX_updated/fonts/type1/public/tex-gyre/qplr.pfb><C:/Users/court/On
+eDrive/Desktop/MiKTeX_updated/fonts/type1/public/tex-gyre/qplri.pfb><C:/Users/c
+ourt/OneDrive/Desktop/MiKTeX_updated/fonts/type1/public/hoekwater/stmary10.pfb>
+<C:/Users/court/OneDrive/Desktop/MiKTeX_updated/fonts/type1/urw/palatino/uplr8a
+.pfb><C:/Users/court/OneDrive/Desktop/MiKTeX_updated/fonts/type1/urw/palatino/u
+plri8a.pfb>
+Output written on SuB30_typeset.pdf (4 pages, 246397 bytes).
+PDF statistics:
+ 82 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 13 words of extra memory for PDF output out of 10000 (max. 10000000)
+
