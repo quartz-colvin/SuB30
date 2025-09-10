@@ -40,7 +40,7 @@ output:
 
 2. Hmong background 
 
-3. Literature review 
+3. Literature 
 
 4. Hmong data
 
@@ -167,7 +167,7 @@ class: center, middle
 
 # Hmong data
 
-### Singulars 
+## Singulars 
 
 .pull-left[
 (1) Keng pom tus aub 
@@ -185,16 +185,16 @@ class: center, middle
 
 
 .pull-right[
-***(1) explain???***
+(1) ***tus aub*** can only refer to 1 unique, specific dog in the relevant context
 
-***(2) explain???***
+(2) ***ib tus aub*** can refer to any one of the dogs in the context 
 ]
 
 ---
 
 # Hmong data 
 
-### Plurals
+## Plurals
 
 .pull-left[
 (3) Keng pom cov aub.
@@ -212,39 +212,48 @@ class: center, middle
 ]
 
 .pull-right[
-***(3) explain???***
+(3) ***cov aub*** can only refer to the full group of dogs in the context
 
-***(4) explain???***
+(4) ***ib cov aub*** can refer to any subgroup of the dogs in the context 
+
 ]
 
 ---
 
 class: center, middle
 
-# Literature review
+# Literature
 
 ---
 
-# Literature review 
+# Literature 
 
-### Hmong 
+## Hmong-specific
 
-- there is minimal semantic work on Hmong and any previous discussion of classifiers is brief, descriptive, and focused on classifier choice (Bisang 1993). 
+- there is minimal semantic work on Hmong and previous discussion of classifiers is brief, descriptive, and focused on classifier choice (Bisang 1993)
 
-***???***
+- some work on bare classifier phrases in Hmong being definite (Simpson 2008; Simpson 2011; Simpson et. al 2015)
+
+--
+
+- **that's about it!**
 
 ---
 
-# Literature review 
+# Literature 
 
 ### Definiteness 
 
-"[Definiteness] presupposes the existence and the unicity of the noun to which it refers. In addition, it implies that the referent has been previously introduced in the discourse and that it is familiar [in the sense of (Heim 1983)] to the speaker and to the hearer." (Pozzo 2022).
+> "[Definiteness] presupposes the existence and the unicity of the noun to which it refers. In addition, it implies that the referent has been previously introduced in the discourse and that it is familiar [in the sense of (Heim 1983)] to the speaker and to the hearer." (Pozzo 2022).
+
+---
+
+# Literature
 
 - in classifier languages, definiteness can sometimes be shown by classifier placement, as in Bangla (Dayal 2012).
 
 .pull-left[
-(X) boi ta 
+(5) boi ta 
 
 <span style="color:white;">(1)</span> book CLF
 
@@ -253,7 +262,7 @@ class: center, middle
 
 
 .pull-right[
-(X) ek ta boi 
+(6) ek ta boi 
 
 <span style="color:white;">(1)</span> one CLF book 
 
@@ -262,26 +271,38 @@ class: center, middle
 
 ---
 
-# Literature review 
+# Literature 
 
 - typically classifier languages do not have a definite article, but Nuosu Yi and Indonesian are languages that may have both (Jiang 2017; Chung 2000)
 
+(7) mu uo ma su nra jjy nra (Nuosu Yi)
+
+<span style="color:white;">(1)</span> horse three CLF DEF fat very fat 
+
+<span style="color:white;">(1)</span> *"The three horses are very fat."*
+
+(8) itu tiga orang orang China kuli (Indonesian)
+
+<span style="color:white;">(1)</span> DEF three CLF person Chinese laborer
+
+<span style="color:white;">(1)</span> *"three of the Chinese workmen"*
+
+---
+
+# Literature
 
 - bare classifier phrases are often definite, as in Vietnamese (Daley 1998)
 
-(X) Nguoi chong rat tot 
+(9) Nguoi chong rat tot 
 
 <span style="color:white;">(1)</span> CLF husband very good 
 
 <span style="color:white;">(1)</span> *"The husband was very good."*
 
----
+--
 
-# Literature review 
+- this is similar to Hmong 
 
-### Noun typology 
-
-***???Chierchia***
 
 ---
 
@@ -301,7 +322,7 @@ class: center, middle
 
 # Proposal 
 
-(3) **Cov** *covers* A if: (Schwarzschild 1996)
+(10) **Cov** *covers* A if: (Schwarzschild 1996)
 
   - **Cov** is a set of subsets of A
   
@@ -313,7 +334,7 @@ class: center, middle
 
 --
 
-(4) [[*cups*]]<sup>*M,g*</sup> = 
+(11) [[*cups*]]<sup>*M,g*</sup> = 
 
   - { {c1 ⊕ c2 ⊕ c3 },
 
@@ -329,9 +350,9 @@ class: center, middle
 
 - *cov* generates a cover of things in the relevant situation context that are of the property P.
 
-(5) [[*cov*]]<sup>*M,g*</sup> = λP.λx.x ∈ **Cov**(P)
+(12) [[*cov*]]<sup>*M,g*</sup> = λP.λx.x ∈ **Cov**(P)
 
-- Since *cov* doesn’t operate over kinds and instead operates over properties, I assume there is an N operator (following Chierchia 1998) in the denotation to show that P must be a property by the time *cov* combines with the noun, though this operator is not explicitly shown in the following denotations.
+- Since *cov* doesn’t operate over kinds and instead operates over properties, I assume there is an up operator (following Chierchia 1998) in the denotation to show that P must be a property by the time *cov* combines with the noun, though this operator is not explicitly shown in the following denotations.
 
 
 ---
@@ -342,13 +363,15 @@ class: center, middle
 
 - I adopt the standard formulation of ι (Jenks 2018)
 
-(6) [[ι]] = λP : ∃!x[P(x)].ιx[P(x)]
+(13) [[ι]] = λP : ∃!x[P(x)].ιx[P(x)]
 
---
+---
+
+# Proposal
 
 -  For the indefinite article *ib*, I analyze it as a choice function indefinite (Winter 1997) rather than an existential quantifier.
 
-(7) [[*ib*]]<sup>*M,g*</sup> = λP. *f*<sub>*cf*</sub> (λy.P(y) = 1)
+(14) [[*ib*]]<sup>*M,g*</sup> = λP. *f*<sub>*cf*</sub> (λy.P(y) = 1)
 
 - A choice functional definition for *ib* more clearly explains the fact that Hmong indefinite *ib cov* DPs have a non-specific meaning and they select a random subset from the powerset generated by *cov*. 
 
@@ -359,7 +382,23 @@ class: center, middle
 
 # Proposal 
 
+.pull-left[
+```{r, out.width="80%", out.height="80%", echo=FALSE}
+knitr::include_graphics("./images/cov_aub_tree.png")
+```
+]
+
+.pull-right[
+```{r, out.width="90%", out.height="90%", echo=FALSE}
+knitr::include_graphics("./images/ib_cov_aub_tree.png")
+```
+]
+
 - Once the DP structure is built via standard functional application, we see a case of antipresupposition
+
+---
+
+# Proposal
 
 - Antipresupposition is visible at the DP level since it takes the semantics of the D head into account. 
 
@@ -371,17 +410,15 @@ class: center, middle
 
 ---
 
-# In practice
+# Contexts
 
-***???contexts***
-
-(X) *AUB*_{C}: \{Apollo,Mars,Copper\}
+(15) *AUB*<sub>*C*</sub>: \{Apollo,Mars,Copper\}
 
 <span style="color:white;">(1)</span> (a.) *tus aub* = A
 
 <span style="color:white;">(1)</span> (b.) *ib tus aub* = A or M or C
 
-(X) *AUV*_{C}: \{Apollo,Mars,Copper\}
+(16) *AUB*<sub>*C*</sub>: \{Apollo,Mars,Copper\}
 
 <span style="color:white;">(1)</span> (a.) *cov aub* = AMC 
 
@@ -393,7 +430,7 @@ class: center, middle
 
 # Formal derivations 
 
-***???***
+***insert???***
 
 ---
 

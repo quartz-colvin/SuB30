@@ -1,27 +1,27 @@
 {
-    "id": "F1CC5C70",
+    "id": "789D87EE",
     "path": "C:/Users/court/OneDrive/Desktop/SuB30/SuB30/index.Rmd",
     "project_path": "index.Rmd",
     "type": "r_markdown",
     "hash": "0",
     "contents": "",
     "dirty": false,
-    "created": 1757433870313.0,
+    "created": 1757532420849.0,
     "source_on_save": true,
     "relative_order": 2,
     "properties": {
         "tempName": "Untitled1",
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "182,36",
-        "scrollLine": "176"
+        "cursorPosition": "430,21",
+        "scrollLine": "421"
     },
     "folds": "",
-    "lastKnownWriteTime": 1757518543,
+    "lastKnownWriteTime": 1757534954,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1757518543429,
+    "last_content_update": 1757534954821,
     "read_only": false,
     "read_only_alternatives": []
 }
