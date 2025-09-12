@@ -32,6 +32,12 @@ output:
 
 1. What are the individual meanings of *ib*, *tus*, and *cov*?
 
+  - ***ib***: indefinite article
+  
+  - ***tus***: general singular classifier
+  
+  - ***cov***: general plural classifier 
+  
 2. How do the indefinite article *ib* and the classifiers *tus* and *cov* combine to give us the correct meanings for each possible DP configuration in Hmong?
 
 --
@@ -97,6 +103,11 @@ class: center, middle
 
 - bare nouns are only grammatical as kinds
 
+(1) tsov ntxaus ntxaus ntxaus ntshai 
+
+<span style="color:white;">(1)</span> tiger intensifier REDUP fear 
+
+<span style="color:white;">(1)</span> *"Tigers are dangerous."*
 
 ---
 
@@ -179,13 +190,13 @@ class: center, middle
 ## Singular DPs 
 
 .pull-left[
-(1) Keng pom tus aub 
+(2) Keng pom tus aub 
 
 <span style="color:white;">(1)</span> Keng see CLF dog 
 
 <span style="color:white;">(1)</span> *"Keng sees the dog."*
 
-(2) Keng pom ib tus aub 
+(3) Keng pom ib tus aub 
 
 <span style="color:white;">(1)</span> Keng see INDEF CLF dog 
 
@@ -194,9 +205,9 @@ class: center, middle
 
 
 .pull-right[
-(1) ***tus aub*** can only refer to 1 unique, specific dog in the relevant context
+(2) ***tus aub*** can only refer to 1 unique, specific dog in the relevant context
 
-(2) ***ib tus aub*** can refer to any one of the dogs in the context 
+(3) ***ib tus aub*** can refer to any one of the dogs in the context 
 ]
 
 ---
@@ -206,14 +217,14 @@ class: center, middle
 ## Plural DPs
 
 .pull-left[
-(3) Keng pom **cov** **aub**
+(4) Keng pom **cov** **aub**
 
 <span style="color:white;">(1)</span> Keng see CLF dog
 
 <span style="color:white;">(1)</span> *"Keng sees (all) the dogs."*
 
 
-(4) Keng pom **ib** **cov** **aub**
+(5) Keng pom **ib** **cov** **aub**
 
 <span style="color:white;">(1)</span> Keng see INDEF CLF dog 
 
@@ -221,9 +232,9 @@ class: center, middle
 ]
 
 .pull-right[
-(3) ***cov aub*** can only refer to the full group of dogs in the context
+(4) ***cov aub*** can only refer to the full group of dogs in the context
 
-(4) ***ib cov aub*** can refer to any subgroup of the dogs in the context 
+(5) ***ib cov aub*** can refer to any subgroup of the dogs in the context 
 
 ]
 
@@ -263,6 +274,8 @@ class: center, middle
 
 # Proposal 
 
+- The two DP structures with ***cov***...
+
 .pull-left[
 ```{r, out.width="80%", out.height="80%", echo=FALSE}
 knitr::include_graphics("./images/cov_aub_tree.png")
@@ -279,15 +292,19 @@ knitr::include_graphics("./images/ib_cov_aub_tree.png")
 
 # Proposal 
 
-- The lexical contribution of *cov* is to convert a type *e* bare noun (a kind) into a property (Chierchia 1998) and generate a cover
+- Recall bare N is type *e*
 
-- a cover  generates a set of subsets of entities that fit the noun’s descriptive content in the context
+- So, the lexical contribution of *cov* is to convert a type *e* bare noun (a kind) into a property *e,t* (Chierchia 1998) and generate a **cover**
+
+  - A **cover**  generates a set of subsets of entities that fit the noun’s descriptive content in the context
 
 ---
 
 # Proposal 
 
-(5) **Cov** *covers* A if: (Schwarzschild 1996)
+### Formal definition
+
+(6) **Cov** *covers* A if: (Schwarzschild 1996)
 
   - **Cov** is a set of subsets of A
   
@@ -299,7 +316,7 @@ knitr::include_graphics("./images/ib_cov_aub_tree.png")
 
 --
 
-(6) [[*cups*]]<sup>*M,g*</sup> = 
+(7) [[*cups*]]<sup>*M,g*</sup> = 
 
   - { {c1 ⊕ c2 ⊕ c3 },
 
@@ -315,61 +332,80 @@ knitr::include_graphics("./images/ib_cov_aub_tree.png")
 
 - *cov* generates a cover of things in the relevant situation context that are of the property P.
 
-(7) [[*cov*]]<sup>*M,g*</sup> = λP.λx.x ∈ **Cov**(P)
+(8) [[*cov*]]<sup>*M,g*</sup> = λP.λx.x ∈ **Cov**(P)
 
-- Since *cov* doesn’t operate over kinds and instead operates over properties, I assume there is an up operator (following Chierchia 1998) in the denotation to show that P must be a property by the time *cov* combines with the noun, though this operator is not explicitly shown in the following denotations.
+--
 
+- this *cov* doesn’t operate over kinds and instead operates over properties
+
+- assume there is an up operator (following Chierchia 1998) coupled with the *cov* denotation to show that *P* must be a property by the time *cov* combines with the noun, though this operator is not explicitly shown in my denotations
+
+--
+
+- now at the ClfP level of the structures, we have a property type (*e,t*)
 
 ---
 
 # Proposal 
 
-- As for the determiners of these DPs, there are two relevant D options: ι, which gives a definite reading, and *ib*, which gives a non-specific indefinite reading.
+### The determiners: iota
+
+- there are two relevant D options: ι, which gives a definite reading, and *ib*, which gives a very non-specific indefinite reading.
 
 - I adopt the following formulation of ι (Jenks 2018)
 
-(8) [[ι]] = λP : ∃!x[P(x)].ιx[P(x)]
+(9) [[ι]] = λP : ∃!x[P(x)].ιx[P(x)]
 
 ---
 
 # Proposal
 
+### A determiner: *ib*
+
 -  For the indefinite article *ib*, I analyze it as a choice function indefinite (Winter 1997) rather than an existential quantifier.
 
-(9) [[*ib*]]<sup>*M,g*</sup> = λP. *f*<sub>*cf*</sub> (λy.P(y) = 1)
+(10) [[*ib*]]<sup>*M,g*</sup> = λP. *f*<sub>*cf*</sub> (λy.P(y) = 1)
+
+--
 
 - A choice functional definition for *ib* more clearly explains the fact that Hmong indefinite *ib cov* DPs have a non-specific meaning and they select a random subset from the powerset generated by *cov*. 
 
 - *ib* has a primary function of choosing a subset from the set of options in the context
 
 
+--
 
-
-- Once the DP structure is built via standard functional application, we see a case of antipresupposition
+- Once the DP structures are built via standard functional application, we see ***antipresupposition***
 
 ---
 
 # Proposal
 
-- Antipresupposition is visible at the DP level since it takes the semantics of the D head into account. 
+### Antipresupposition
 
-- In the case of *ib cov aub*, the choice function does not select the largest entity; otherwise, the definite ι operator would be the determiner chosen for the utterance instead of *ib*. 
+- Antipresupposition must be visible at the DP level since it takes the semantics of the determiner (iota or *ib*) into account 
 
-- The choice function also does not select an atomic entity; otherwise, the singular classifier *tus* would have been chosen instead of *cov*. 
+--
 
-- This antipresupposition yields the non-singular and non-maximal entities as the pragmatically sound options when *ib cov aub* is uttered.
+- In the case of *ib cov aub*, the choice function does not select the largest entity; otherwise, the definite ι operator would be the determiner chosen for the utterance instead of *ib*
+
+- The choice function also does not select an atomic entity; otherwise, the singular classifier *tus* would have been chosen instead of *cov*
+
+--
+
+- This antipresupposition yields the non-singular and non-maximal entities as the pragmatically sound options when *ib cov aub* is uttered
 
 ---
 
 # Contexts
 
-(10) *AUB*<sub>*C*</sub>: \{Apollo,Mars,Copper\}
+(11) *AUB*<sub>*C*</sub>: \{Apollo,Mars,Copper\}
 
 <span style="color:white;">(1)</span> (a.) *tus aub* = A
 
 <span style="color:white;">(1)</span> (b.) *ib tus aub* = A or M or C
 
-(11) *AUB*<sub>*C*</sub>: \{Apollo,Mars,Copper\}
+(12) *AUB*<sub>*C*</sub>: \{Apollo,Mars,Copper\}
 
 <span style="color:white;">(1)</span> (a.) *cov aub* = AMC 
 
@@ -387,19 +423,26 @@ knitr::include_graphics("./images/ib_cov_aub_tree.png")
 
 # Discussion & Implications 
 
-- Some theoretical implications of this work are as follows. 
 
-- First, the only defining characteristic of a classifier in Hmong (and likely other Chinese-type languages) is to convert a kind into a property. I have not applied this analysis to any languages with optional classifiers.
+- **First,** the only defining characteristic of a classifier in Hmong (and likely other Chinese-type languages) is to convert a kind into a property. 
 
---
-
-- Second, we expect plural classifiers in any language to have this cover property, so long as the classifier is the sole morphological contributor to the plural meaning of the noun phrase.
+  - I have not applied this analysis to any languages with optional classifiers.
 
 --
 
-- This is an interesting prediction for Mandarin, which has also been said to have a plural classifier *xie* (Wu 2019). 
+- **Second,** we expect plural classifiers in any language to have this cover property, *so long as* the classifier is the sole morphological contributor to the plurality of the noun phrase.
 
-- It’s not clear without more thorough investigation whether indefinite *xie* phrases are compatible with this because we would first need to establish that the word for 'one’ *yi* is a choice function indefinite and solidify the claim that *xie* is a plural classifier.
+---
+
+# Discussion & Implications
+
+- This is an interesting prediction for **Mandarin**, which has also been said to have a plural classifier ***xie*** (Wu 2019). 
+
+- It’s not clear without more thorough investigation whether indefinite ***xie*** phrases are compatible with this Hmong analysis because we would first need to establish:
+
+  - that the word for 'one’ ***yi*** is a choice function indefinite 
+  
+  - that ***xie*** is a plural classifier
 
 
 
@@ -409,7 +452,9 @@ knitr::include_graphics("./images/ib_cov_aub_tree.png")
 
 - My analysis is unique in that it explains definiteness facts as well as the number facts of definite and indefinite uses of *cov*.
 
-- ***???***
+--
+
+- This may extend to other classifier languages with a general plural classifier!
 
 ---
 class: center, middle
@@ -451,7 +496,7 @@ Percus, O. 2006. "Antipresuppositions." In A. Ueyama(ed.), Theoretical and Empir
 
 Winter, Y. 1997. Choice Functions and the Scopal Semantics of Indefinites. Linguistics and Philosophy 20, 399–467. https://doi.org/10.1023/A:1005354323136
  
-***fill in???***
+***fill in references???***
 
 ---
 
