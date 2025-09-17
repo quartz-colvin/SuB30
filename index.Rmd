@@ -363,9 +363,9 @@ knitr::include_graphics("./images/ib_cov_aub_tree.png")
 .pull-right[
 (7) [[*cups*]]<sup>*M,g*</sup> = 
 
-  - {{c1 ⊕ c2 ⊕ c3 },
+  - {{c1 &oplus; c2 &oplus; c3 },
 
-  - <p style="font-size: 14pt;">{c1 ⊕ c2 }, {c1 ⊕ c3 }, {c2 ⊕ c3 },</p>
+  - <p style="font-size: 14pt;">{c1 &oplus; c2 }, {c1 &oplus; c3 }, {c2 &oplus; c3 },</p>
 
   - {c1}, {c2}, {c3}}
   
