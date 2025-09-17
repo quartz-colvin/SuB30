@@ -99,7 +99,7 @@ class: center, middle
 
 --
 
-(1) tsov ntxaus ntxaus ntshai
+(1) **tsov** ntxaus ntxaus ntshai
 
 <span style="color:white;">(1)</span> tiger intensifier REDUP fear 
 
@@ -251,7 +251,13 @@ class: center, middle
 
 # Literature 
 
-### Link 1983
+## Link (1983)
+
+This paper is about collective predication
+
+Lattice structures inherent in *mereological predicate logic*
+
+--
 
 **Mereology:** the study of parthood
 
@@ -259,10 +265,46 @@ class: center, middle
 
 - a sum is an **individual, not a set**
 
---
+---
 
-***discuss Link 1983 joint semi-lattices???***
+# Literature 
 
+### Link (1983)
+
+**Join-semilattice:** is a partially ordered set in which all pairs have a join
+
+- the join of a subset $S$ of a partially ordered set $P$ is the **supremum** of $S$ ( $\lor$ $S$ )
+
+- (*a*) and (*b*) are join-semilattices but (*c*) is not (visual is from [this paper](https://math.hawaii.edu/~jb/math618/os2uh_17.pdf))
+
+```{r, out.width="90%", out.height="90%", echo=FALSE}
+knitr::include_graphics("./images/lattice_examples.png")
+```
+
+
+---
+
+# Literature 
+
+### Supremum
+
+  - **supremum:** the smallest number that is greater than or equal to every element in the set
+  
+  - the supremum doesn't have to be an element of the set
+  
+  - supremum always exists for a set that is bounded above and is unique when it exists
+
+---
+
+# Literature 
+
+### Supremum (visual)
+
+```{r, out.width="100%", out.height="100%", echo=FALSE}
+knitr::include_graphics("./images/supremum.png")
+```
+
+This helpful graphic is from [this website](https://mathstrek.blog/2012/11/09/basic-analysis-sequence-convergence-1/).
 
 ---
 
@@ -449,11 +491,32 @@ knitr::include_graphics("./images/ib_cov_aub_tree.png")
 ***discuss Persian DOM data, Jasbi 2015???***
 
 
+ketab-o = "the book"
+
+ye kitab-o = "(one of) the cakes" or "a cake"
+
+- (unknown/nonspecific one of a relevant group) 
+
+- (partitive reading)
+
+kitaba-ro = 
+
+ye kitab = "a book"
+
+--
+
+*ye* = indef determiner
+
+- An indefinite is partitively specific if it is interpreted as part  of a set introduced in previous discourse.
 
 
+māshin = the car
 
+ye māshin = a car
 
+māshin-i = a/any car
 
+ye māshin-i = some car or other
 
 
 
@@ -527,6 +590,10 @@ Simpson et. al. 2011. Bare classifiers and definiteness. *Studies in Language* 3
 ---
 
 # References 3
+
+[this???](https://math.hawaii.edu/~jb/math618/os2uh_17.pdf)
+
+[this too???](https://mathstrek.blog/2012/11/09/basic-analysis-sequence-convergence-1/)
 
 Winter, Y. 1997. Choice Functions and the Scopal Semantics of Indefinites. Linguistics and Philosophy 20, 399–467. https://doi.org/10.1023/A:1005354323136
  
