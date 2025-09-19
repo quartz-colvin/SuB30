@@ -1,6 +1,6 @@
 ---
 title: "A cover analysis of the plural classifier in Hmong"
-subtitle: "Goethe University Frankfurt (Sinn und Bedeutung 30)"
+subtitle: "Goethe University Frankfurt (SuB 30)"
 author: "Quartz Colvin"
 institute: "Rutgers University"
 date: "`r Sys.Date()`"
@@ -18,15 +18,11 @@ output:
 
 # Introduction
 
-- In this paper, I show that Hmong *cov* is a plural classifier that generates a set of subsets (a **cover**). 
+- In this presentation, I show that Hmong *cov* is a plural classifier that generates a set of subsets (a **cover**). 
 
 --
 
-- Classifiers in White Hmong (Hmong-Mien) typically give rise to definite readings via an ι operator in the absence of an indefinite article. 
-
---
-
-- The plural, group classifier *cov* generates a cover that can be seen clearly in definite and indefinite contexts.
+- Classifiers in White Hmong (Hmong-Mien) typically give rise to definite readings via a null ι determiner in the absence of an indefinite article. 
 
 ---
 
@@ -44,7 +40,7 @@ output:
   
 --
 
-2. How do the indefinite article *ib* and the classifiers *tus* and *cov* combine to give us the correct meanings for each possible DP configuration in Hmong?
+2. How do the indefinite article *ib* and the classifiers *tus* and *cov* combine to give us the correct meanings for the possible DP configurations in Hmong?
 
 --
 
@@ -67,7 +63,7 @@ output:
 
 5. Proposal 
 
-6. Discussion
+6. Discussion & Implications
 
 7. Conclusion
 
@@ -85,9 +81,13 @@ class: center, middle
 
 - strict SVO word order
 
+- analytical morphology
+
 - no case or grammatical gender distinction 
 
---
+---
+
+# Hmong background
 
 ### Semantics
 
@@ -118,11 +118,11 @@ class: center, middle
 
 ### Romanized Popular Alphabet (RPA)
 
-- in RPA, the final letter of the word corresponds to a ***tone***!
+- the final letter of the written word corresponds to a ***tone***!
 
 --
 
-- 7 tones
+- White Hmong has 7 tones:
   - high rising (***-b***) 
   - high falling (***-j***)
   - mid (***unmarked***)
@@ -154,6 +154,8 @@ Diaspora communities in the US speak **White Hmong** and **Green Hmong** and are
 
 - All data and discussion are based on elicitation on Zoom with **Ying** (35) and in person with **Keng** (25), two (sibling!) White Hmong speakers who were raised in Wisconsin (WI). 
 
+  - neither speaker can read or write Hmong, and education was in English
+
 --
 
 - **Keng:** White Hmong, English, high school German 
@@ -162,9 +164,11 @@ Diaspora communities in the US speak **White Hmong** and **Green Hmong** and are
 
 --
 
-- Keng was born in WI and Ying immigrated to the US from Laos at age 4.
+- Keng was born in WI and Ying immigrated to the US from Laos at age 4
 
-- neither speaker can read/write Hmong
+--
+
+- One parent is Green Hmong heritage, but both parents speak White Hmong primarily
 
 ---
 
@@ -243,6 +247,8 @@ class: center, middle
 
 - some work on bare classifier phrases in Hmong being definite (Simpson 2008; Simpson 2011; Simpson et. al 2015)
 
+  - note that this is mainly syntactic work
+
 --
 
 - **that's about it!**
@@ -257,13 +263,15 @@ This paper is about collective predication
 
 Lattice structures inherent in *mereological predicate logic*
 
+  - particularly join-semilattices (discussed on next slide)
+
 --
 
 **Mereology:** the study of parthood
 
-- The operator **⊕ ** allows us to put individuals together to form "collections" and the formal object of them is called a SUM
+- The operator **⊕ ** allows us to put individuals together to form "collections" and their formal object is called a SUM
 
-- a sum is an **individual, not a set**
+- a SUM is an **individual, not a set**
 
 ---
 
@@ -273,7 +281,7 @@ Lattice structures inherent in *mereological predicate logic*
 
 **Join-semilattice:** is a partially ordered set in which all pairs have a join
 
-- the join of a subset $S$ of a partially ordered set $P$ is the **supremum** of $S$ ( $\lor$ $S$ )
+- the **join** of a subset *S* of a partially ordered set *P* is the **supremum** of *S* (*V S*)
 
 - (*a*) and (*b*) are join-semilattices but (*c*) is not (visual is from [this paper](https://math.hawaii.edu/~jb/math618/os2uh_17.pdf))
 
@@ -288,11 +296,11 @@ knitr::include_graphics("./images/lattice_examples.png")
 
 ### Supremum
 
-  - **supremum:** the smallest number that is greater than or equal to every element in the set
+- **supremum:** the smallest number that is greater than or equal to every element in the set
   
-  - the supremum doesn't have to be an element of the set
+  - it doesn't have to be an element of the set
   
-  - supremum always exists for a set that is bounded above and is unique when it exists
+  - it always exists for a set that is bounded above and is unique when it exists
 
 ---
 
@@ -310,13 +318,13 @@ This helpful graphic is from [this website](https://mathstrek.blog/2012/11/09/ba
 
 class: center, middle
 
-# Proposal
+# Proposal (White Hmong)
 
 ---
 
 # Proposal 
 
-- The two DP structures with ***cov***...
+### The two DP structures with ***cov***...
 
 .pull-left[
 ```{r, out.width="80%", out.height="80%", echo=FALSE}
@@ -336,7 +344,7 @@ knitr::include_graphics("./images/ib_cov_aub_tree.png")
 
 - Recall bare N is type *e*
 
-- So, the lexical contribution of *cov* is to convert a type *e* bare noun (a kind) into a property *e,t* (Chierchia 1998) and generate a **cover**
+- We can say the lexical contribution of *cov* is to convert a type *e* bare noun (a kind) into a property *e,t* (Chierchia 1998) and generate a **cover**
 
   - A **cover**  generates a set of subsets of entities that fit the noun’s descriptive content in the context
 
@@ -344,10 +352,10 @@ knitr::include_graphics("./images/ib_cov_aub_tree.png")
 
 # Proposal 
 
-### Formal definition
+### Formal definition (Schwarzschild 1996)
 
 .pull-left[
-(6) **Cov** *covers* A if: (Schwarzschild 1996)
+(6) **Cov** *covers* A if: 
 
   - **Cov** is a set of subsets of A
   
@@ -372,33 +380,41 @@ knitr::include_graphics("./images/ib_cov_aub_tree.png")
   - *cups = ℘(cup), without ∅*
 ]
 
+--
+
+the classifier *cov* and the concept being **cov** is a coincidence...
+
 ---
 
 # Proposal
 
-- *cov* generates a cover of things in the relevant situation context that are of the property P.
+**Returning to Hmong,**
+
+- *cov* generates a cover of things in the relevant situation context that are of the property *P*, where *P* corresponds to the NP
 
 (8) [[*cov*]]<sup>*M,g*</sup> = λP.λx.x ∈ **Cov**(P)
 
 --
 
-- this *cov* doesn’t operate over kinds and instead operates over properties
+**Classifiers in Hmong**
 
-- assume there is an up operator (following Chierchia 1998) coupled with the *cov* denotation to show that *P* must be a property by the time *cov* combines with the noun, though this operator is not explicitly shown in my denotations
+- *cov* doesn’t operate over kinds and instead operates over properties
+
+- there is an "up" operator (following Chierchia 1998) coupled with the *cov* denotation to show that *P* must be a property by the time *cov* combines with the noun, though this operator is not explicitly shown in my denotations
 
 --
 
-- now at the ClfP level of the structures, we have a property type (*e,t*)
+- now, at the ClfP level of the structures, we have a property type (*e,t*)
 
 ---
 
 # Proposal 
 
-### The determiners: iota
+### *The* determiners: iota
 
-- there are two relevant D options: ι, a **null morpheme** which gives a definite reading, and *ib*, which gives a very non-specific indefinite reading.
+- there are two relevant D options: ι, a **null determiner** which gives a definite reading, and *ib*, which gives a very non-specific indefinite reading.
 
-- I adopt the following formulation of ι (Jenks 2018)
+- the following formulation of ι is what I use here (Jenks 2018)
 
 (9) [[ι]] = λP : ∃!x[P(x)].ιx[P(x)]
 
@@ -406,22 +422,22 @@ knitr::include_graphics("./images/ib_cov_aub_tree.png")
 
 # Proposal
 
-### A determiner: *ib*
+### *A* determiner: *ib*
 
--  For the indefinite article *ib*, I analyze it as a choice function indefinite (Winter 1997) rather than an existential quantifier.
+- the indefinite article *ib*, is primarily a choice function indefinite (Winter 1997) rather than simply an existential quantifier
 
 (10) [[*ib*]]<sup>*M,g*</sup> = λP. *f*<sub>*cf*</sub> (λy.P(y) = 1)
 
 --
 
-- A choice functional definition for *ib* more clearly explains the fact that Hmong indefinite *ib cov* DPs have a non-specific meaning and they select a random subset from the powerset generated by *cov*. 
+- the choice functional analysis for *ib* more clearly explains the fact that Hmong indefinite *ib cov* DPs have a non-specific meaning and they select a random subset from the powerset generated by *cov* 
 
-- *ib* has a primary function of choosing a subset from the set of options in the context
+  - *ib* has a primary function of choosing a subset from the set of options in the context
 
 
 --
 
-- Once the DP structures are built via standard functional application, we see ***antipresupposition***
+- the DP structures are built via standard functional application, we see two micro-cases of ***antipresupposition***
 
 ---
 
@@ -429,27 +445,59 @@ knitr::include_graphics("./images/ib_cov_aub_tree.png")
 
 ### Antipresupposition
 
-- Antipresupposition must be visible at the DP level since it takes the semantics of the determiner (iota or *ib*) into account 
+Antipresupposition ***"imposes the condition that the interlocutors not take the truth of a certain proposition for granted"*** (Percus 2006)
+
+---
+
+# Proposal 
+
+### Antipresupposition 
+
+Must be visible at the DP level since it takes the semantics of the determiner (iota or *ib*) into account 
 
 --
 
-- In the case of *ib cov aub*, the choice function does not select the largest entity; otherwise, the definite (null) ι would be the determiner chosen for the utterance instead of *ib*
+***ib cov aub*** vs *iota* ***cov aub***?
+
+- In *ib cov aub*, the choice function does not select the largest entity; otherwise, the definite (null) ι would be the determiner chosen for the utterance instead of *ib*
+
+--
+
+*iota* ***tus aub*** vs *iota* ***cov aub***?
 
 - The choice function also does not select an atomic entity; otherwise, the singular classifier *tus* would have been chosen instead of *cov*
 
 --
 
-- This antipresupposition yields the non-singular and non-maximal entities as the pragmatically sound options when *ib cov aub* is uttered
+This antipresupposition yields the non-singular and non-maximal entities as the pragmatically sound options when *ib cov aub* is uttered
+
+---
+
+class: middle, center
+
+# Proposal (contexts)
 
 ---
 
 # Contexts
+
+Instead of cups, which the mereology example in the literature review used, we'll use a context of three dogs: **Apollo, Copper** and **Mars**
 
 (11) *AUB*<sub>*C*</sub>: \{Apollo,Mars,Copper\}
 
 <span style="color:white;">(1)</span> (a.) *tus aub* = A
 
 <span style="color:white;">(1)</span> (b.) *ib tus aub* = A or M or C
+
+--
+
+- **(11a)** is definite via iota
+  
+- **(11b)** is nonspecific via the choice function *ib*
+
+---
+
+# Contexts
 
 (12) *AUB*<sub>*C*</sub>: \{Apollo,Mars,Copper\}
 
@@ -458,6 +506,14 @@ knitr::include_graphics("./images/ib_cov_aub_tree.png")
 <span style="color:white;">(1)</span> (b.) *ib cov aub* = AMC or AM or AC or CM or A or M or C
 
 <span style="color:white;">(1)</span> (c.) *ib cov aub* = AM or AC or CM (**via antipresupposition!**)
+
+--
+
+- **(12a)** is definite and maximal via iota determiner
+  
+- **(12b)** semantically, all entities are options 
+  
+- **(12c)** pragmatically, only the non-maximal and non-atomic entities are good options 
 
 ---
 
@@ -567,6 +623,67 @@ Plural marking, (in)definiteness and (accusative) case interactions
 
 <span style="color:white;">(1)</span> *"some books"* (~~maximal~~)
 ]
+
+---
+
+# Discussion & Implications 
+
+### Persian 
+
+.pull-left[
+(19) **ye** ketāb 
+
+<span style="color:white;">(1)</span>  one book
+
+<span style="color:white;">(1)</span>  *"a book"* (~~specific~~,sg.indef.)
+
+(20) ketāb-**ā**-ro 
+
+<span style="color:white;">(1)</span>  book-PL-ACC
+
+<span style="color:white;">(1)</span>  *"the books"* (maximal)
+
+(21) **ye** ketāb-**ā**-i 
+
+<span style="color:white;">(1)</span>  one book-PL-INDEF
+
+<span style="color:white;">(1)</span> *"some books"* (~~maximal~~)
+
+]
+
+.pull-right[
+= *ib tus aub*
+
+<span style="color:white;">(1)</span> 
+
+<span style="color:white;">(1)</span> 
+
+= *cov aub*
+
+<span style="color:white;">(1)</span> 
+
+<span style="color:white;">(1)</span> 
+
+= *ib cov aub*
+
+
+]
+
+---
+
+# Discussion & Implications
+
+### Persian
+
+- ***ye*** (one) may have similar choice functional semantics to *ib*
+
+- ***ā*** (the plural morpheme) may have a cover-generating property like *cov*
+
+---
+
+class: middle, center
+
+# Conclusion 
 
 ---
 
