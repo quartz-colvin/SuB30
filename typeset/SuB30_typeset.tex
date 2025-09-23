@@ -6,6 +6,7 @@
 \usepackage{fge}
 
 \usepackage{tikz}
+\usetikzlibrary{automata, positioning, arrows}
 \usepackage{tikz-qtree}
 
 \usepackage{amsmath,amsthm, amssymb, latexsym}
@@ -158,6 +159,21 @@ Plural definite structure \\\Tree [.DP_{e} [.D^0_{\langle\langle e,t \rangle, e 
 Plural indefinite structure \\\Tree [.DP_{\langle e,t \rangle} [.D^0_{\langle\langle e,t \rangle, \langle e,t \rangle\rangle} \textit{ib} ] [.ClfP_{\langle e,t \rangle} [.Clf^0_{\langle e, \langle e,t \rangle\rangle} \textit{cov} ] [.NP_{e} [.N^0_{e} \textit{aub} ]]]]
 
 
+
+\begin{center}
+\begin{tikzpicture}
+	\node[state, initial] (0) {0:T}; 
+	\node[state, right of=0, xshift=3cm] (2) {2:F}; 
+	\node[state] at (1.5, 2) (1) {1:T}; 
+
+   \draw (1) edge[right, bend left, right=0.3, ->] node{$b:F$} (2);
+   \draw (0) edge[right, bend left, right=0.3, ->] node{$a:T$} (1);
+   \draw (0) edge[right, bend right, right=0.3, ->] node{$b:F$} (2);
+   \draw (2) edge[right, bend left, right=0.3, ->] node{$a:F$} (1);
+   \draw (1) edge[loop above] node{$a:T$} (1);
+   \draw (2) edge[loop below] node{$b:F$} (2);
+\end{tikzpicture}
+\end{center}
 
 
 
