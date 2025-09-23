@@ -610,8 +610,6 @@ Plural marking, (in)definiteness and (accusative) case interactions
 
 ---
 
-class: middle, center
-
 # Discussion & Implications: Persian DOM
 
 .pull-left[
@@ -697,6 +695,8 @@ class: middle, center
 ]
 
 ---
+
+class: middle, center
 
 # Discussion & Implications: Persian
 
