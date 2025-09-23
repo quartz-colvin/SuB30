@@ -412,6 +412,12 @@ the classifier *cov* and the concept being **cov** is a coincidence...
 
 --
 
+- compare with the singular classifier *tus*, which doesn't generate a cover
+
+(9) [[*tus*]]<sup>*M,g*</sup> = λP.λx.[P(x) ∧ AT(x)]
+
+--
+
 **Classifiers in Hmong**
 
 - *cov* doesn’t operate over kinds and instead operates over properties
@@ -432,7 +438,7 @@ the classifier *cov* and the concept being **cov** is a coincidence...
 
 - the following formulation of ι is what I use here (Jenks 2018)
 
-(9) [[ι]] = λP : ∃!x[P(x)].ιx[P(x)]
+(10) [[ι]] = λP : ∃!x[P(x)].ιx[P(x)]
 
 ---
 
@@ -442,7 +448,7 @@ the classifier *cov* and the concept being **cov** is a coincidence...
 
 - the indefinite article *ib*, is primarily a choice function indefinite (Winter 1997) rather than simply an existential quantifier
 
-(10) [[*ib*]]<sup>*M,g*</sup> = λP. *f*<sub>*cf*</sub> (λy.P(y) = 1)
+(11) [[*ib*]]<sup>*M,g*</sup> = λP. *f*<sub>*cf*</sub> (λy.P(y) = 1)
 
 --
 
@@ -499,23 +505,32 @@ class: middle, center
 
 Instead of cups, which the mereology example in the literature review used, we'll use a context of three dogs: **Apollo, Copper** and **Mars**
 
-(11) *AUB*<sub>*C*</sub>: \{Apollo,Mars,Copper\}
+.pull-left[
+(12) *AUB*<sub>*C*</sub>: \{Apollo,Mars,Copper\}
 
 <span style="color:white;">(1)</span> (a.) *tus aub* = A
 
 <span style="color:white;">(1)</span> (b.) *ib tus aub* = A or M or C
 
---
-
-- **(11a)** is definite via iota
+- **(12a)** definite via iota
   
-- **(11b)** is nonspecific via the choice function *ib*
+- **(12b)** nonspecific via choice function *ib*
+]
+
+
+.pull-right[
+
+```{r, out.width="90%", out.height="80%", echo=FALSE}
+knitr::include_graphics("./images/acm_lattice.png")
+```
+
+]
 
 ---
 
 # Contexts
 
-(12) *AUB*<sub>*C*</sub>: \{Apollo,Mars,Copper\}
+(13) *AUB*<sub>*C*</sub>: \{Apollo,Mars,Copper\}
 
 <span style="color:white;">(1)</span> (a.) *cov aub* = AMC 
 
@@ -524,12 +539,11 @@ Instead of cups, which the mereology example in the literature review used, we'l
 <span style="color:white;">(1)</span> (c.) *ib cov aub* = AM or AC or CM (**via antipresupposition!**)
 
 --
-
-- **(12a)** is definite and maximal via iota determiner
+- **(13a)** definite and maximal via iota determiner
   
-- **(12b)** semantically, all entities are options 
+- **(13b)** semantically, all entities are options 
   
-- **(12c)** pragmatically, only the non-maximal and non-atomic entities are good options 
+- **(13c)** pragmatically, only the non-maximal and non-atomic entities are good options 
 
 ---
 
@@ -554,7 +568,7 @@ Instead of cups, which the mereology example in the literature review used, we'l
 
 ---
 
-# Discussion & Implications
+# Discussion & Implications: Mandarin
 
 ## What about Mandarin?
 
@@ -570,7 +584,7 @@ Instead of cups, which the mereology example in the literature review used, we'l
 
 ---
 
-# Discussion & Implications
+# Discussion & Implications: Persian
 
 ## What about Persian DOM? (Jasbi 2016)
 
@@ -596,22 +610,22 @@ Plural marking, (in)definiteness and (accusative) case interactions
 
 ---
 
-# Discussion & Implications 
+class: middle, center
 
-## Persian DOM
+# Discussion & Implications: Persian DOM
 
 .pull-left[
-(13) ketāb 
+(14) ketāb 
 
 <span style="color:white;">(1)</span> *"book"* or *"books"*
 
-(14) ketāb-o
+(15) ketāb-o
 
 <span style="color:white;">(1)</span> book-ACC
 
 <span style="color:white;">(1)</span> *"the book"* (unique; atomic)
 
-(15) ye ketāb 
+(16) ye ketāb 
 
 <span style="color:white;">(1)</span> one book
 
@@ -620,20 +634,20 @@ Plural marking, (in)definiteness and (accusative) case interactions
 
 .pull-right[
 
-(16) ye ketāb-o 
+(17) ye ketāb-o 
 
 <span style="color:white;">(1)</span> one book-ACC 
 
 <span style="color:white;">(1)</span> *"a book"* (specific, sg. indef.)
 
-(17) ketāb-ā-ro 
+(18) ketāb-ā-ro 
 
 <span style="color:white;">(1)</span> book-PL-ACC 
 
 <span style="color:white;">(1)</span> *"the books"* (maximal)
 
 
-(18) ye ketāb-ā-i 
+(19) ye ketāb-ā-i 
 
 <span style="color:white;">(1)</span> one book-PL-INDEF
 
@@ -642,29 +656,26 @@ Plural marking, (in)definiteness and (accusative) case interactions
 
 ---
 
-# Discussion & Implications 
-
-### Persian 
+# Discussion & Implications: Persian 
 
 .pull-left[
-(19) **ye** ketāb 
+(20) **ye** ketāb 
 
 <span style="color:white;">(1)</span>  one book
 
 <span style="color:white;">(1)</span>  *"a book"* (~~specific~~,sg.indef.)
 
-(20) ketāb-**ā**-ro 
+(21) ketāb-**ā**-ro 
 
 <span style="color:white;">(1)</span>  book-PL-ACC
 
 <span style="color:white;">(1)</span>  *"the books"* (maximal)
 
-(21) **ye** ketāb-**ā**-i 
+(22) **ye** ketāb-**ā**-i 
 
 <span style="color:white;">(1)</span>  one book-PL-INDEF
 
 <span style="color:white;">(1)</span> *"some books"* (~~maximal~~)
-
 ]
 
 .pull-right[
@@ -687,13 +698,11 @@ Plural marking, (in)definiteness and (accusative) case interactions
 
 ---
 
-# Discussion & Implications
+# Discussion & Implications: Persian
 
-### Persian
+## ***ye*** (one) may have similar choice functional semantics to *ib*
 
-- ***ye*** (one) may have similar choice functional semantics to *ib*
-
-- ***ā*** (the plural morpheme) may have a cover-generating property like *cov*
+## ***ā*** (the plural morpheme) may have a cover-generating property like *cov*
 
 ---
 

@@ -162,16 +162,34 @@ Plural indefinite structure \\\Tree [.DP_{\langle e,t \rangle} [.D^0_{\langle\la
 
 \begin{center}
 \begin{tikzpicture}
-	\node[state, initial] (0) {0:T}; 
-	\node[state, right of=0, xshift=3cm] (2) {2:F}; 
-	\node[state] at (1.5, 2) (1) {1:T}; 
+	\node[state] (0) {\textbf{$a$}}; 
+	\node[state, right of=0, xshift=2.5cm] (1) {\textbf{$c$}}; 
+	\node[state, right of=0, xshift=6cm] (2) {\textbf{$m$}}; 
+	\node[state] at (0.5,3) (4) {\textbf{$a \oplus c$}};
+	\node[state] at (3.5,3) (6) {\textbf{$a \oplus m$}};
+	\node[state] at (6.5,3) (5) {\textbf{$c \oplus m$}};
+	\node[state] at (3.5,6) (3) {\textbf{$a \oplus c \oplus m$}};
 
-   \draw (1) edge[right, bend left, right=0.3, ->] node{$b:F$} (2);
-   \draw (0) edge[right, bend left, right=0.3, ->] node{$a:T$} (1);
-   \draw (0) edge[right, bend right, right=0.3, ->] node{$b:F$} (2);
-   \draw (2) edge[right, bend left, right=0.3, ->] node{$a:F$} (1);
-   \draw (1) edge[loop above] node{$a:T$} (1);
-   \draw (2) edge[loop below] node{$b:F$} (2);
+	\draw (3) edge[right] (4);
+	\draw (3) edge[right] (5);
+	\draw (3) edge[right] (6);
+
+	\draw (4) edge[right] (0);
+	\draw (4) edge[right] (1);
+
+	\draw (5) edge[right] (1);
+	\draw (5) edge[right] (2);
+
+	\draw (6) edge[right] (0);
+	\draw (6) edge[right] (1);
+	\draw (6) edge[right] (2);
+
+   %\draw (1) edge[right, bend left, right=0.3, ->] node{$b:F$} (2);
+   %\draw (0) edge[right, bend left, right=0.3, ->] node{$a:T$} (1);
+   %\draw (0) edge[right, bend right, right=0.3, ->] node{$b:F$} (2);
+   %\draw (2) edge[right, bend left, right=0.3, ->] node{$a:F$} (1);
+   %\draw (1) edge[loop above] node{$a:T$} (1);
+   %\draw (2) edge[loop below] node{$b:F$} (2);
 \end{tikzpicture}
 \end{center}
 
