@@ -1,7 +1,7 @@
 ---
 title: "A cover analysis of the plural classifier in Hmong"
-subtitle: "Goethe University Frankfurt (SuB 30)"
-author: "Quartz Colvin"
+subtitle: "Goethe University Frankfurt (SuB30)"
+author: "Quartz Colvin (they/them)"
 institute: "Rutgers University"
 date: "`r Sys.Date()`"
 output:
@@ -257,13 +257,13 @@ class: center, middle
 
 # Literature 
 
-## Link (1983)
+## Mereology (Link 1983)
 
-This paper is about collective predication
+***Note:*** this paper is about collective predication.
 
-Lattice structures inherent in *mereological predicate logic*
+Lattice structures are inherent in **mereological predicate logic**
 
-  - particularly join-semilattices (discussed on next slide)
+  - particularly, they are join-semilattices (*discussed on next slide*)
 
 --
 
@@ -272,12 +272,14 @@ Lattice structures inherent in *mereological predicate logic*
 - The operator **⊕ ** allows us to put individuals together to form "collections" and their formal object is called a SUM
 
 - a SUM is an **individual, not a set**
+  
+  - another word for a SUM is a fusion
 
 ---
 
 # Literature 
 
-### Link (1983)
+## Mereology (Link 1983)
 
 **Join-semilattice:** is a partially ordered set in which all pairs have a join
 
@@ -289,7 +291,6 @@ Lattice structures inherent in *mereological predicate logic*
 knitr::include_graphics("./images/lattice_examples.png")
 ```
 
-
 ---
 
 # Literature 
@@ -298,7 +299,7 @@ knitr::include_graphics("./images/lattice_examples.png")
 
 - **supremum:** the smallest number that is greater than or equal to every element in the set
   
-  - it doesn't have to be an element of the set
+  - it *doesn't* need to be an element of the set
   
   - it always exists for a set that is bounded above and is unique when it exists
 
@@ -306,13 +307,28 @@ knitr::include_graphics("./images/lattice_examples.png")
 
 # Literature 
 
-### Supremum (visual)
+## Mereology (linguistic example)
 
+.pull-left[
+
+- this is an example of a mereological structure with three atomic entities (*m, l, and p*)
+
+- we can see it's a join-semilattice!
+
+- keep this mereological structure in mind
+
+- *the details of certain types of lattices will be mostly irrelevant to understanding the rest of the talk*
+
+]
+
+.pull-right[
 ```{r, out.width="100%", out.height="100%", echo=FALSE}
-knitr::include_graphics("./images/supremum.png")
+knitr::include_graphics("./images/ling_mereology_example.png")
 ```
 
-This helpful graphic is from [this website](https://mathstrek.blog/2012/11/09/basic-analysis-sequence-convergence-1/).
+- Coppock & Champollion (2023: 410)
+
+]
 
 ---
 
@@ -734,11 +750,10 @@ Chierchia, Gennaro. 1998. Reference to kinds across language. *Natural Language 
 Chierchia, Gennaro. 1997. Partitives, Reference to Kinds and Semantic Variation. *SALT VII*, 73-98. Cornell University. Ithaca, NY.
 
 
+Coppock, Elizabeth & Champollion, Lucas. 2023. *Invitation to Formal Semantics.* Manuscript.
+
+
 Elbourne, Paul D. 2005. On the acquisition of Principle B. Linguistic Inquiry 36:333–366
-
-
-Jasbi, M. (2020). The meaning of the Farsi object marker ”ra”. In R. K. Larson, S. Moradi, & V. Samiian (Eds.), *Advances in Iranian Linguistics*, (pp. 107–118), John Benjamins. https://doi.org/10.1075/cilt.351.07jas
-
 
 ---
 
