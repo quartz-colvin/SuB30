@@ -3,7 +3,7 @@
     "path": "C:/Users/court/OneDrive/Desktop/SuB30/SuB30/index.Rmd",
     "project_path": "index.Rmd",
     "type": "r_markdown",
-    "hash": "0",
+    "hash": "1398180894",
     "contents": "",
     "dirty": false,
     "created": 1757532420849.0,
@@ -13,15 +13,15 @@
         "tempName": "Untitled1",
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "616,0",
-        "scrollLine": "606"
+        "cursorPosition": "687,13",
+        "scrollLine": "683"
     },
     "folds": "",
-    "lastKnownWriteTime": 1758633781,
+    "lastKnownWriteTime": 1758653040,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1758633781986,
+    "last_content_update": 1758653040026,
     "read_only": false,
     "read_only_alternatives": []
 }
