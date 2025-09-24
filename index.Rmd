@@ -575,7 +575,7 @@ class: middle, center
 
 Plural marking, (in)definiteness and (accusative) case interactions
 
-- not a classifier language, so this could be a new way to look at the **cover** concept in natural language 
+- not a classifier language, at least in the same way that HMong or Chinese are, so this could be a new way to look at the **cover** concept in natural language 
 
 - certain configurations have the same **maximal** versus **nonmaximal** readings that Hmong conveyed with the choice function indefinite article and **cover** classifier!
 
@@ -586,10 +586,6 @@ Plural marking, (in)definiteness and (accusative) case interactions
 *ye* = indefinite determiner
 
 *-i* = indefinite suffix 
-
---
-
-***Data is on the next slide!***
 
 ---
 
@@ -673,7 +669,6 @@ Plural marking, (in)definiteness and (accusative) case interactions
 <span style="color:white;">(1)</span> 
 
 = *ib cov aub*
-
 
 ]
 
