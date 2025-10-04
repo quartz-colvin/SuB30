@@ -1,0 +1,176 @@
+%!TEX TS-program = pdflatex
+\documentclass[a4paper,12pt,twoside]{article}
+
+
+
+\usepackage[T1]{fontenc}
+\usepackage{tgtermes}
+\usepackage{newtxmath}          
+%\usepackage{multicols}
+\linespread{0.97}
+
+
+\makeatletter
+\newcommand*\MySupRaise{1.05ex}
+\newcommand*\MySupSize{\scriptsize}
+
+\DeclareRobustCommand{\textsuperscript}[1]{%
+  \leavevmode\hbox{\raise\MySupRaise\hbox{{\normalfont\MySupSize #1}}}%
+}
+
+\renewcommand\@makefnmark{\hbox{\textsuperscript{\@thefnmark}}}
+\makeatother
+
+
+
+\usepackage{parskip}
+\usepackage[top=1.5in,left=1in,right=1in,bottom=1in]{geometry}
+%\setlength{\parindent}{0pt}
+%\setlength{\parskip}{\the\baselineskip}
+\pagestyle{empty} 
+
+
+
+\makeatletter
+\renewcommand\@makefntext[1]{%
+  \parindent 1em\noindent
+  \hbox{\@makefnmark}#1}
+\renewcommand\large{\@setfontsize\large{14pt}{18}}
+\makeatother
+
+\usepackage{titlesec}
+\titleformat{\subsection}{\normalfont\normalsize}{\thesubsection.}{1ex}{}
+\titleformat{\subsubsection}{\normalfont\normalsize}{\thesubsubsection.}{1ex}{}
+\titleformat{\section}{\normalfont\normalsize\bfseries}{\thesection.}{.63cm}{}
+\titlespacing*{\section}{0pt}{24pt}{12pt}
+\titlespacing*{\subsection}{0pt}{24pt}{12pt}
+\titlespacing*{\subsubsection}{0pt}{2ex plus 1ex minus .2ex}{2.3ex plus .2ex}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{2.5ex plus 0.5ex minus 0.2ex}
+
+
+
+
+\usepackage{natbib} 
+\bibpunct{(}{)}{;}{a}{,}{,}
+
+
+\setlength{\bibsep}{0pt} \relax
+\setcitestyle{notesep={: },yysep={, }} \relax
+
+\usepackage{linguex,url}
+\def\refdash{} % To suppress the dash in (2-a) etc. Defining both as different versions of linguex had different names for this command.
+\def\firstrefdash{}
+
+
+\usepackage{titleps}
+\usepackage{lipsum}
+\usepackage{xcolor}
+
+\newpagestyle{mystyle}{
+\sethead[\thepage][\Author][]{}{\Title}{\thepage}
+}
+\pagestyle{mystyle}
+\author{Quartz Colvin}
+\title{A cover analysis of the plural classifier in Hmong}
+\makeatletter
+\newcommand\Author{First Author -- Second Author}
+\let\Title\@title
+\makeatother
+%header with author and title
+
+\pagenumbering{gobble} 
+%suppresses page numbering in header
+
+
+
+\begin{document}
+%%\maketitle
+\setlength{\Extopsep}{0pt}
+\thispagestyle{empty}
+
+{\large \textbf{A cover analysis of the plural classifier in Hmong}}\footnote{We would like to thank my consultants: KX and YX. I also want to thank my Qualifying Paper committee (Dr. Dorothy Ahn, Dr. Yimei Xiang, and Dr. Maria Kouneli) for their guidance with this project.}\\
+Quartz COLVIN --- \textit{Rutgers University}\\
+
+\textbf{Abstract.} \textcolor{red}{???fillin}
+
+\textbf{Keywords:} \textcolor{red}{key, words, hello.???}
+
+\section{Introduction}
+
+In this paper, I show that Hmong \textit{cov} is a plural classifier that generates a set of subsets (a cover). Classifiers in White Hmong (Hmong-Mien) typically give rise to definite readings via a null $\iota$ determiner in the absence of an indefinite article. The plural, group classifier \textit{cov} generates a cover that can be seen clearly in definite and indefinite contexts.
+
+
+\subsection{Background} 
+
+White Hmong is part of the West Hmongic branch of the Hmong-Mien language family. It has about 4.5 million speakers, many of whom live in the United States. Despite the large number of speakers, there is not much formal linguistic research into the language, and certainly not much research into its semantics. 
+
+Hmong is a classifier language with analytical morphology. Its word order is strictly subject-verb-object, and there are no case markings or grammatical gender distinctions. 
+
+The language does not have an overt definite article, but bare classifier phrases give rise to definite interpretations. Classifiers are always required with a noun, unless the noun is referring to a kind. Bare nouns are only grammatical as kinds. 
+
+\ex.	tsov ntxaus ntxaus ntshai.\\
+	tiger intensifier \textsc{Redup} fear\\
+	`Tigers are dangerous.'
+
+Regarding the language's phonology and the orthography used in this paper, note that Hmong words are monosyllabic and do not allow consonant codas. In the examples in this paper, we use the Romanized Popular Alphabet orthography (RPA), and the final written consonant of a word corresponds to a tone. White Hmong has 7 tones.
+
+\ex. \textbf{White Hmong tones} \\
+	high rising \textit{(-b)}\\
+	high falling \textit{(-j)}\\
+	mid (unmarked)\\
+	low \textit{(-s)}\\
+	mid-rising \textit{(-v)}\\
+	low-falling creaky \textit{(-m)}\\
+	high-falling breathy \textit{(-g)}
+
+All data and discussion in this paper were from two White Hmong speakers from Wisconsin: Keng and Ying (siblings). Neither consultant can read or write in Hmong, and all of their education was in English. Keng was born in the United States, but Ying immigrated with their parents to the US when she was 4 years old. Both of their parents use White Hmong mainly, but one has Green Hmong heritage. 
+
+\section{Data}
+
+\textcolor{red}{fill in data???}
+
+In \ref{tusaub}, the bare classifier phrase \textit{tus aub} can only refer to one unique, specific dog in the relevant context. If one adds the indefinite article, as in \ref{ibtusaub}, the nominal \textit{ib tus aub} can refer to any one of the dogs in the context. 
+
+
+\ex.	\textbf{Singular classifier data}
+\ag. \label{tusaub}Keng pom tus aub\\
+	Keng see \textsc{Clf.sg} dog\\
+	`Keng sees the dog.'
+\bg. \label{ibtusaub}Keng pom ib tus aub\\
+	Keng see \textsc{Indef} \textsc{Clf.sg} dog\\
+	`Keng sees a/some dog.'
+
+In \ref{covaub}, when we switch the singular classifier \textit{tus} for the plural one \textit{cov}, now the bare classifier phrase \textit{cov aub} can only refer to the full group of dogs in the context. But, when we add the indefinite article \textit{ib}, now the DP \textit{ib cov aub} can refer to any subgrouping of dogs in the context. 
+
+\ex.	\textbf{Plural classifier data}
+\ag. \label{covaub}Keng pom cov aub\\
+	Keng see \textsc{Clf.pl} dog\\
+	`Keng sees (all) the dogs.'
+\bg. \label{ibcovaub}Keng pom ib cov aub\\
+	Keng see \textsc{Indef} \textsc{Clf.pl} dog\\
+	`Keng sees (some of) the dogs.'
+
+\textcolor{red}{add some concluding sentence here???}
+
+
+
+
+
+\section{Literature review}
+
+There is minimal semantic work on Hmong. Most discussion of the language is brief, descriptive, and in the DP domain, mostly focused on classifier choice (Bisang 1993). There is more syntactic work on Hmong DPs, but they don't say much about a formal semantic analysis of these DPs (Simpson 2008, 2011; Simpson et al 2015). They mainly say that bare classifier phrases are definite, and leave it at that. 
+
+\textcolor{red}{add stuff here???}
+
+
+
+\section{Proposal}
+
+\textcolor{red}{fill in???}
+
+
+\bibliographystyle{chicago}
+\bibliography{SuB}
+
+\end{document}
